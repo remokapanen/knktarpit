@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Kappale 7 Sharing your book | KNK-tärpit</title>
+  <meta name="description" content="set in the _output.yml file." />
+  <meta name="generator" content="bookdown 0.45 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Kappale 7 Sharing your book | KNK-tärpit" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="set in the _output.yml file." />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Kappale 7 Sharing your book | KNK-tärpit" />
+  
+  <meta name="twitter:description" content="set in the _output.yml file." />
+  
+
+<meta name="author" content="Remo Kapanen" />
+
+
+<meta name="date" content="2026-02-03" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="blocks.html"/>
+<link rel="next" href="references.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./"></a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> About</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#valtakunnallinen-kysymyspankki"><i class="fa fa-check"></i><b>1.1</b> Valtakunnallinen kysymyspankki</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#lks-tenttipankki"><i class="fa fa-check"></i><b>1.2</b> LKS-tenttipankki</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="section.html"><a href="section.html"><i class="fa fa-check"></i><b>2</b> 2021</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="section.html"><a href="section.html#potilastapaus"><i class="fa fa-check"></i><b>2.1</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.2" data-path="section.html"><a href="section.html#milloin-lapselle-tehd%C3%A4%C3%A4n-tonsillotomia"><i class="fa fa-check"></i><b>2.2</b> Milloin lapselle tehdään tonsillotomia?</a></li>
+<li class="chapter" data-level="2.3" data-path="section.html"><a href="section.html#potilastapaus-1"><i class="fa fa-check"></i><b>2.3</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.4" data-path="section.html"><a href="section.html#potilastapaus-2"><i class="fa fa-check"></i><b>2.4</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.5" data-path="section.html"><a href="section.html#ep%C3%A4ilet-lapsella-toimenpidett%C3%A4-vaativaa-kitarisahypertrofiaa.-mik%C3%A4-seuraavista-ei-sovi-ep%C3%A4ilyysi"><i class="fa fa-check"></i><b>2.5</b> Epäilet lapsella toimenpidettä vaativaa kitarisahypertrofiaa. Mikä seuraavista ei sovi epäilyysi?</a></li>
+<li class="chapter" data-level="2.6" data-path="section.html"><a href="section.html#m%C3%A9ni%C3%A8ren-taudissa-tyypillinen-l%C3%B6yd%C3%B6s-tai-oire-on"><i class="fa fa-check"></i><b>2.6</b> Ménièren taudissa tyypillinen löydös tai oire on</a></li>
+<li class="chapter" data-level="2.7" data-path="section.html"><a href="section.html#potilastapaus-3"><i class="fa fa-check"></i><b>2.7</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.8" data-path="section.html"><a href="section.html#p%C3%A4%C3%A4dyt-tekem%C3%A4%C3%A4n-50-vuotiaalle-rinosinuiittioireista-k%C3%A4rsiv%C3%A4lle-potilaalle-poskiontelopunktion.-minne-punktioneula-asetetaan-punktiota-teht%C3%A4ess%C3%A4"><i class="fa fa-check"></i><b>2.8</b> Päädyt tekemään 50-vuotiaalle rinosinuiittioireista kärsivälle potilaalle poskiontelopunktion. Minne punktioneula asetetaan punktiota tehtäessä?</a></li>
+<li class="chapter" data-level="2.9" data-path="section.html"><a href="section.html#syv%C3%A4n-kaulainfektion-aiheuttaja"><i class="fa fa-check"></i><b>2.9</b> Syvän kaulainfektion aiheuttaja</a></li>
+<li class="chapter" data-level="2.10" data-path="section.html"><a href="section.html#miten-voit-parantaa-n%C3%A4kyvyytt%C3%A4-%C3%A4%C3%A4nihuulten-tasolle-jos-potilaalla-on-herkk%C3%A4-oksennusrefleksi"><i class="fa fa-check"></i><b>2.10</b> Miten voit parantaa näkyvyyttä äänihuulten tasolle, jos potilaalla on herkkä oksennusrefleksi?</a></li>
+<li class="chapter" data-level="2.11" data-path="section.html"><a href="section.html#potilastapaus-4"><i class="fa fa-check"></i><b>2.11</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.12" data-path="section.html"><a href="section.html#potilastapaus-5"><i class="fa fa-check"></i><b>2.12</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.13" data-path="section.html"><a href="section.html#nen%C3%A4vammapotilaalla-nopeaa-samana-p%C3%A4iv%C3%A4n%C3%A4-tapahtuvaa-korval%C3%A4%C3%A4k%C3%A4rikonsultaatiota-edellytt%C3%A4v%C3%A4-diagnoosi-on"><i class="fa fa-check"></i><b>2.13</b> Nenävammapotilaalla nopeaa (samana päivänä tapahtuvaa) korvalääkärikonsultaatiota edellyttävä diagnoosi on</a></li>
+<li class="chapter" data-level="2.14" data-path="section.html"><a href="section.html#mik%C3%A4-seuraavista-v%C3%A4itt%C3%A4mist%C3%A4-ei-pid%C3%A4-paikkaansa"><i class="fa fa-check"></i><b>2.14</b> Mikä seuraavista väittämistä ei pidä paikkaansa?</a></li>
+<li class="chapter" data-level="2.15" data-path="section.html"><a href="section.html#mik%C3%A4-seuraavista-ei-ole-kroonisen-laryngiitin-aiheuttaja"><i class="fa fa-check"></i><b>2.15</b> Mikä seuraavista ei ole kroonisen laryngiitin aiheuttaja?</a></li>
+<li class="chapter" data-level="2.16" data-path="section.html"><a href="section.html#vanhemmat-tuovat-2-vuotiaan-ilonan-terveyskeskukseen-kuorsauksen-vuoksi.-vastaanotolla-ilona-istuu-suu-jatkuvasti-avoinna.-mist%C3%A4-t%C3%A4m%C3%A4-todenn%C3%A4k%C3%B6isimmin-johtuu"><i class="fa fa-check"></i><b>2.16</b> Vanhemmat tuovat 2-vuotiaan Ilonan terveyskeskukseen kuorsauksen vuoksi. Vastaanotolla Ilona istuu suu jatkuvasti avoinna. Mistä tämä todennäköisimmin johtuu?</a></li>
+<li class="chapter" data-level="2.17" data-path="section.html"><a href="section.html#potilastapaus-6"><i class="fa fa-check"></i><b>2.17</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.18" data-path="section.html"><a href="section.html#potilastapaus-7"><i class="fa fa-check"></i><b>2.18</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.19" data-path="section.html"><a href="section.html#trakeostomoidun-potilaan-hoidon-erityispiirteet"><i class="fa fa-check"></i><b>2.19</b> Trakeostomoidun potilaan hoidon erityispiirteet</a></li>
+<li class="chapter" data-level="2.20" data-path="section.html"><a href="section.html#potilastapaus-8"><i class="fa fa-check"></i><b>2.20</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.21" data-path="section.html"><a href="section.html#yleisin-bakteriellin-rinosinuiitin-aiheuttaja"><i class="fa fa-check"></i><b>2.21</b> Yleisin bakteriellin rinosinuiitin aiheuttaja</a></li>
+<li class="chapter" data-level="2.22" data-path="section.html"><a href="section.html#potilastapaus-9"><i class="fa fa-check"></i><b>2.22</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.23" data-path="section.html"><a href="section.html#potilastapaus-10"><i class="fa fa-check"></i><b>2.23</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.24" data-path="section.html"><a href="section.html#mik%C3%A4-seuraavista-oireista-ei-ole-tyypillinen-komplisoituneessa-kroonisessa-v%C3%A4likorvan-tulehduksessa"><i class="fa fa-check"></i><b>2.24</b> Mikä seuraavista oireista ei ole tyypillinen komplisoituneessa, kroonisessa välikorvan tulehduksessa?</a></li>
+<li class="chapter" data-level="2.25" data-path="section.html"><a href="section.html#potilastapaus-11"><i class="fa fa-check"></i><b>2.25</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.26" data-path="section.html"><a href="section.html#potilastapaus-12"><i class="fa fa-check"></i><b>2.26</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.27" data-path="section.html"><a href="section.html#potilastapaus-13"><i class="fa fa-check"></i><b>2.27</b> Potilastapaus</a></li>
+<li class="chapter" data-level="2.28" data-path="section.html"><a href="section.html#ep%C3%A4ilet-1-vuotiaalla-eerolla-akuuttia-kurkunp%C3%A4%C3%A4ntulehdusta.-miksi"><i class="fa fa-check"></i><b>2.28</b> Epäilet 1-vuotiaalla Eerolla akuuttia kurkunpääntulehdusta. Miksi?</a></li>
+<li class="chapter" data-level="2.29" data-path="section.html"><a href="section.html#alakuorikoiden-pienennystmp"><i class="fa fa-check"></i><b>2.29</b> Alakuorikoiden pienennystmp</a></li>
+<li class="chapter" data-level="2.30" data-path="section.html"><a href="section.html#mihin-kasvojen-alueen-neuralgiaan-liittyy-kivun-provosoituminen-kasvojen-ihon-koskettamisesta-hampaiden-pesusta-sy%C3%B6misest%C3%A4-tai-v%C3%A4lill%C3%A4-jopa-puhumisesta"><i class="fa fa-check"></i><b>2.30</b> Mihin kasvojen alueen neuralgiaan liittyy kivun provosoituminen kasvojen ihon koskettamisesta, hampaiden pesusta, syömisestä tai välillä jopa puhumisesta?</a></li>
+<li class="chapter" data-level="2.31" data-path="section.html"><a href="section.html#potilaalla-on-voimistuvaa-kurkkukipua-ja-kuumetta.-potilas-kertoo-ett%C3%A4-on-sy%C3%B6nyt-kalaa-nelj%C3%A4-p%C3%A4iv%C3%A4%C3%A4-sitten.-nyt-my%C3%B6s-nieleminen-tuntuu-vaikealta.-miten-toimit"><i class="fa fa-check"></i><b>2.31</b> Potilaalla on voimistuvaa kurkkukipua ja kuumetta. Potilas kertoo, että on syönyt kalaa neljä päivää sitten. Nyt myös nieleminen tuntuu vaikealta. Miten toimit?</a></li>
+<li class="chapter" data-level="2.32" data-path="section.html"><a href="section.html#keskikaulalle-tulleen-iskun-tai-kuristusvamman-k%C3%A4rsinyt-potilas-on-syyt%C3%A4"><i class="fa fa-check"></i><b>2.32</b> Keskikaulalle tulleen iskun tai kuristusvamman kärsinyt potilas on syytä</a></li>
+<li class="chapter" data-level="2.33" data-path="section.html"><a href="section.html#kurkunp%C3%A4%C3%A4sy%C3%B6p%C3%A4"><i class="fa fa-check"></i><b>2.33</b> Kurkunpääsyöpä</a></li>
+<li class="chapter" data-level="2.34" data-path="section.html"><a href="section.html#ep%C3%A4ilen-nielupaisetta-potilaalla.-diagnoosin-todenn%C3%A4k%C3%B6isyytt%C3%A4-voi-arvella-jo-ennen-suuhun-katsomistakin.-mik%C3%A4-oireyhdistelm%C3%A4-viittaa-vahvimmin-nielupaiseeseen"><i class="fa fa-check"></i><b>2.34</b> Epäilen nielupaisetta potilaalla. Diagnoosin todennäköisyyttä voi arvella jo ennen suuhun katsomistakin. Mikä oireyhdistelmä viittaa vahvimmin nielupaiseeseen?</a></li>
+<li class="chapter" data-level="2.35" data-path="section.html"><a href="section.html#nen%C3%A4n-tukkoisuus-ja-paineen-tunne-flunssan-j%C3%A4lkeen"><i class="fa fa-check"></i><b>2.35</b> Nenän tukkoisuus ja paineen tunne flunssan jälkeen</a></li>
+<li class="chapter" data-level="2.36" data-path="section.html"><a href="section.html#vanhuksen-tukkoinen-nen%C3%A4"><i class="fa fa-check"></i><b>2.36</b> Vanhuksen tukkoinen nenä</a></li>
+<li class="chapter" data-level="2.37" data-path="section.html"><a href="section.html#ns.-le-fort-murtumat"><i class="fa fa-check"></i><b>2.37</b> Ns. Le Fort-murtumat</a></li>
+<li class="chapter" data-level="2.38" data-path="section.html"><a href="section.html#mihin-osaan-t%C3%A4rykalvoa-t%C3%A4rykalvopistoa-ei-tule-tehd%C3%A4"><i class="fa fa-check"></i><b>2.38</b> Mihin osaan tärykalvoa tärykalvopistoa EI tule tehdä?</a></li>
+<li class="chapter" data-level="2.39" data-path="section.html"><a href="section.html#kurkussa-ylim%C3%A4%C3%A4r%C3%A4isen-tunne"><i class="fa fa-check"></i><b>2.39</b> Kurkussa ylimääräisen tunne</a></li>
+<li class="chapter" data-level="2.40" data-path="section.html"><a href="section.html#jatkuva-flunssaoireisto-ja-nen%C3%A4n-tukkoisuus"><i class="fa fa-check"></i><b>2.40</b> Jatkuva flunssaoireisto ja nenän tukkoisuus</a></li>
+<li class="chapter" data-level="2.41" data-path="section.html"><a href="section.html#vuotavat-t%C3%A4rykalvoputket"><i class="fa fa-check"></i><b>2.41</b> Vuotavat tärykalvoputket</a></li>
+<li class="chapter" data-level="2.42" data-path="section.html"><a href="section.html#toteat-49-vuotiaalla-oikeanpuoleista-nen%C3%A4n-tukkoisuutta-valittavalla-miehell%C3%A4-septumissa-selv%C3%A4n-deviaation-mik%C3%A4-ahtauttaa-oikeaa-puolta.-mik%C3%A4-seuraavista-v%C3%A4itteist%C3%A4-pit%C3%A4%C3%A4-paikkansa"><i class="fa fa-check"></i><b>2.42</b> Toteat 49-vuotiaalla oikeanpuoleista nenän tukkoisuutta valittavalla miehellä septumissa selvän deviaation, mikä ahtauttaa oikeaa puolta. Mikä seuraavista väitteistä pitää paikkansa?</a></li>
+<li class="chapter" data-level="2.43" data-path="section.html"><a href="section.html#heikentynyt-kuulo"><i class="fa fa-check"></i><b>2.43</b> Heikentynyt kuulo</a></li>
+<li class="chapter" data-level="2.44" data-path="section.html"><a href="section.html#vuotiaalla-hildalla-on-ongelmia-ruokailussa.-ruoka-j%C3%A4%C3%A4-py%C3%B6rim%C3%A4%C3%A4n-suuhun-ja-h%C3%A4n-on-siirtynyt-sy%C3%B6m%C3%A4%C3%A4n-pehme%C3%A4%C3%A4-ja-sosemaista-ruokaa.-mik%C3%A4-seuraavista-syist%C3%A4-n%C3%A4ill%C3%A4-tiedoilla-on-todenn%C3%A4k%C3%B6isin"><i class="fa fa-check"></i><b>2.44</b> 92-vuotiaalla Hildalla on ongelmia ruokailussa. Ruoka jää pyörimään suuhun ja hän on siirtynyt syömään pehmeää ja sosemaista ruokaa. Mikä seuraavista syistä näillä tiedoilla on todennäköisin?</a></li>
+<li class="chapter" data-level="2.45" data-path="section.html"><a href="section.html#ceolla-korvakipua-ja-uniongelmianarskuttelua"><i class="fa fa-check"></i><b>2.45</b> CEO:lla korvakipua ja uniongelmia/narskuttelua</a></li>
+<li class="chapter" data-level="2.46" data-path="section.html"><a href="section.html#pahanhajuiselle-hengitykselle-eli-halitoosille-on-lukuisia-syit%C3%A4-joista-valtaosa-hoituu-muille-keinoin-kuin-kirurgisila-interventioila.-mihin-seuraavista-leikkaushoidolla-voi-kuitenkin-olla-apua"><i class="fa fa-check"></i><b>2.46</b> Pahanhajuiselle hengitykselle eli halitoosille on lukuisia syitä, joista valtaosa hoituu muille keinoin kuin kirurgisila interventioila. Mihin seuraavista leikkaushoidolla voi kuitenkin olla apua?</a></li>
+<li class="chapter" data-level="2.47" data-path="section.html"><a href="section.html#ylim%C3%A4%C3%A4r%C3%A4isen-tunne-nielussa-nuorella-stressaantuneella-opiskelijalla"><i class="fa fa-check"></i><b>2.47</b> Ylimääräisen tunne nielussa nuorella stressaantuneella opiskelijalla</a></li>
+<li class="chapter" data-level="2.48" data-path="section.html"><a href="section.html#mik%C3%A4-seuraavista-oireista-ei-ole-tyypillinen-akuutissa-a-ryhm%C3%A4n-streptokokin-aiheuttamassa-tonsilliitissa"><i class="fa fa-check"></i><b>2.48</b> Mikä seuraavista oireista EI ole tyypillinen akuutissa A-ryhmän streptokokin aiheuttamassa tonsilliitissa?</a></li>
+<li class="chapter" data-level="2.49" data-path="section.html"><a href="section.html#syanoottisella-vastasyntyneill%C3%A4-todetaan-koanaaliatresia-molemmin-puolin.-mik%C3%A4-selitt%C3%A4%C3%A4-vauvan-hengitysvaikeuden"><i class="fa fa-check"></i><b>2.49</b> Syanoottisella vastasyntyneillä todetaan koanaaliatresia molemmin puolin. Mikä selittää vauvan hengitysvaikeuden?</a></li>
+<li class="chapter" data-level="2.50" data-path="section.html"><a href="section.html#v.-tupakoimaton-perusterve-mies-hakeutuu-p%C3%A4ivystykseen-t%C3%A4n%C3%A4%C3%A4n-alkaneen-kiertohuimauksen-ja-oksentelun-vuoksi.-tutkiessa-havaitset-oikealle-ly%C3%B6v%C3%A4n-spontaaninystagmuksen-ja-p%C3%A4%C3%A4nnyk%C3%A4isytesti-on-poikkeava-vasemmalla.-neurologisessa-statuksessa-tai-p%C3%A4%C3%A4n-ttss%C3%A4-ei-ole-poikkeavaa.-todenn%C3%A4k%C3%B6isin-diagnoosi-on"><i class="fa fa-check"></i><b>2.50</b> 55-v. tupakoimaton, perusterve mies hakeutuu päivystykseen tänään alkaneen kiertohuimauksen ja oksentelun vuoksi. Tutkiessa havaitset oikealle lyövän spontaaninystagmuksen ja päännykäisytesti on poikkeava vasemmalla. Neurologisessa statuksessa tai pään TT:ssä ei ole poikkeavaa. Todennäköisin diagnoosi on:</a></li>
+<li class="chapter" data-level="2.51" data-path="section.html"><a href="section.html#etukumara-asento-nen%C3%A4verenvuotopotilaalla-nen%C3%A4%C3%A4-kotona-puristaessaan-on-t%C3%A4rke%C3%A4%C3%A4"><i class="fa fa-check"></i><b>2.51</b> Etukumara asento nenäverenvuotopotilaalla (nenää kotona puristaessaan) on tärkeää</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="tentti-1.html"><a href="tentti-1.html"><i class="fa fa-check"></i><b>3</b> 2023, tentti 1</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-on-%C3%A4%C3%A4nesaudiometrian-mittaustarkkuus-desibeleiss%C3%A4"><i class="fa fa-check"></i><b>3.1</b> Mikä on äänesaudiometrian mittaustarkkuus desibeleissä?</a></li>
+<li class="chapter" data-level="3.2" data-path="tentti-1.html"><a href="tentti-1.html#pienileukainen-kuorsaaja"><i class="fa fa-check"></i><b>3.2</b> Pienileukainen kuorsaaja</a></li>
+<li class="chapter" data-level="3.3" data-path="tentti-1.html"><a href="tentti-1.html#opettaja-valittaa-sis%C3%A4ilmaongelmista"><i class="fa fa-check"></i><b>3.3</b> Opettaja valittaa sisäilmaongelmista</a></li>
+<li class="chapter" data-level="3.4" data-path="tentti-1.html"><a href="tentti-1.html#p%C3%A4ivystykseen-tulee-aikuinen-potilas-joka-on-kaatunut-liukkaalla-j%C3%A4%C3%A4ll%C3%A4.-vasen-etuyl%C3%A4hammas-on-poikki-ja-teet-l%C3%A4hetteen-hammasl%C3%A4%C3%A4k%C3%A4rille.-mik%C3%A4-on-hampaan-numero"><i class="fa fa-check"></i><b>3.4</b> Päivystykseen tulee aikuinen potilas, joka on kaatunut liukkaalla jäällä. Vasen etuylähammas on poikki ja teet lähetteen hammaslääkärille. Mikä on hampaan numero?</a></li>
+<li class="chapter" data-level="3.5" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-seuraavista-ei-liity-menieren-tautiin-valitse-yksi."><i class="fa fa-check"></i><b>3.5</b> Mikä seuraavista ei liity Menieren tautiin? Valitse yksi.</a></li>
+<li class="chapter" data-level="3.6" data-path="tentti-1.html"><a href="tentti-1.html#vuotiaalla-l%C3%A4%C3%A4ketieteen-opiskelijalla-on-ollut-5-vrk-ajan-kurkkukipua-nen%C3%A4n-tukkoisuutta-r%C3%A4k%C3%A4isyytt%C3%A4-sek%C3%A4-ysk%C3%A4%C3%A4.-h%C3%A4n-ep%C3%A4ilee-akuuttia-poskiontelotulehdusta-ja-haluaa-sen-vuoksi-ett%C3%A4-crp-tarkistettaisiin.-mit%C3%A4-mielt%C3%A4-olet-t%C3%A4st%C3%A4"><i class="fa fa-check"></i><b>3.6</b> 24-vuotiaalla lääketieteen opiskelijalla on ollut 5 vrk ajan kurkkukipua, nenän tukkoisuutta, räkäisyyttä sekä yskää. Hän epäilee akuuttia poskiontelotulehdusta ja haluaa sen vuoksi, että CRP tarkistettaisiin. Mitä mieltä olet tästä?</a></li>
+<li class="chapter" data-level="3.7" data-path="tentti-1.html"><a href="tentti-1.html#peitteinen-tonsilliitti-ja-%C3%A4killinen-voinnin-huonontuminen"><i class="fa fa-check"></i><b>3.7</b> Peitteinen tonsilliitti ja äkillinen voinnin huonontuminen</a></li>
+<li class="chapter" data-level="3.8" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-seuraavista-%C3%A4%C3%A4nihuulten-atrofiaa-koskevista-v%C3%A4itt%C3%A4mist%C3%A4-on-oikein"><i class="fa fa-check"></i><b>3.8</b> Mikä seuraavista äänihuulten atrofiaa koskevista väittämistä on oikein?</a></li>
+<li class="chapter" data-level="3.9" data-path="tentti-1.html"><a href="tentti-1.html#toteat-45-vuotiaalla-puoli-vuotta-nen%C3%A4n-tukkoisuudesta-k%C3%A4rsineell%C3%A4-miehell%C3%A4-nen%C3%A4ss%C3%A4-molemmin-puolin-nen%C3%A4polypoosin.-mit%C3%A4-nen%C3%A4polypoosilla-yleens%C3%A4-tarkoitetaan"><i class="fa fa-check"></i><b>3.9</b> Toteat 45-vuotiaalla puoli vuotta nenän tukkoisuudesta kärsineellä miehellä nenässä molemmin puolin nenäpolypoosin. Mitä nenäpolypoosilla yleensä tarkoitetaan?</a></li>
+<li class="chapter" data-level="3.10" data-path="tentti-1.html"><a href="tentti-1.html#nuori-nainen-valittaa-kev%C3%A4isist%C3%A4-nuhaoireista"><i class="fa fa-check"></i><b>3.10</b> Nuori nainen valittaa keväisistä nuhaoireista</a></li>
+<li class="chapter" data-level="3.11" data-path="tentti-1.html"><a href="tentti-1.html#nen%C3%A4n-virheasento-ja-kookas-septumperforaatio-yleissairauden-aiheuttamana"><i class="fa fa-check"></i><b>3.11</b> Nenän virheasento ja kookas septumperforaatio yleissairauden aiheuttamana</a></li>
+<li class="chapter" data-level="3.12" data-path="tentti-1.html"><a href="tentti-1.html#n%C3%A4et-posken-limakalvoilla-poikkeavan-limakalvomuutoksen-mik%C3%A4-her%C3%A4tt%C3%A4%C3%A4-ep%C3%A4ilyn-pahanlaatuisesta-muutoksesta.-mik%C3%A4-on-ensisijainen-toimenpide"><i class="fa fa-check"></i><b>3.12</b> Näet posken limakalvoilla poikkeavan limakalvomuutoksen, mikä herättää epäilyn pahanlaatuisesta muutoksesta. Mikä on ensisijainen toimenpide?</a></li>
+<li class="chapter" data-level="3.13" data-path="tentti-1.html"><a href="tentti-1.html#vuotiaalla-tyt%C3%B6ll%C3%A4-on-ollut-2-kk-ajan-jatkuvaa-oikeanpuoleista-nen%C3%A4n-tukkoisuutta-sek%C3%A4-m%C3%A4rk%C3%A4ist%C3%A4-vuotoa-oikeasta-sieraimesta.-mik%C3%A4-seuraavista-vaihtoehdoista-on-todenn%C3%A4k%C3%B6isin-etiologia"><i class="fa fa-check"></i><b>3.13</b> 4-vuotiaalla tytöllä on ollut 2 kk ajan jatkuvaa oikeanpuoleista nenän tukkoisuutta sekä märkäistä vuotoa oikeasta sieraimesta. Mikä seuraavista vaihtoehdoista on todennäköisin etiologia?</a></li>
+<li class="chapter" data-level="3.14" data-path="tentti-1.html"><a href="tentti-1.html#toiminnallinen-%C3%A4%C3%A4nihuulisalpaus"><i class="fa fa-check"></i><b>3.14</b> Toiminnallinen äänihuulisalpaus</a></li>
+<li class="chapter" data-level="3.15" data-path="tentti-1.html"><a href="tentti-1.html#ihon-okasolusy%C3%B6v%C3%A4n-eli-levyepiteelikarsinooman-suositeltavin-hoito-on"><i class="fa fa-check"></i><b>3.15</b> Ihon okasolusyövän eli levyepiteelikarsinooman suositeltavin hoito on</a></li>
+<li class="chapter" data-level="3.16" data-path="tentti-1.html"><a href="tentti-1.html#akuutin-bakteriellin-rinosinuiitin-antibioottihoito"><i class="fa fa-check"></i><b>3.16</b> Akuutin bakteriellin rinosinuiitin antibioottihoito</a></li>
+<li class="chapter" data-level="3.17" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-menetelm%C3%A4-suomessa-on-yleisimmin-k%C3%A4yt%C3%B6ss%C3%A4-vastasyntyneiden-kuulonseulonnassa"><i class="fa fa-check"></i><b>3.17</b> Mikä menetelmä Suomessa on yleisimmin käytössä vastasyntyneiden kuulonseulonnassa?</a></li>
+<li class="chapter" data-level="3.18" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-seuraavista-ei-ole-tyypillinen-akuutin-nielurisatulehduksen-aiheuttajamikrobi"><i class="fa fa-check"></i><b>3.18</b> Mikä seuraavista EI ole tyypillinen akuutin nielurisatulehduksen aiheuttajamikrobi?</a></li>
+<li class="chapter" data-level="3.19" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4li-potilaan-ilmateiden-varmistaminen-ei-h%C3%A4t%C3%A4tilanteessa-onnistu-supraglottisin-v%C3%A4linein-eik%C3%A4-intubaatiobalmiutta-ole"><i class="fa fa-check"></i><b>3.19</b> Mikäli potilaan ilmateiden varmistaminen ei hätätilanteessa onnistu supraglottisin välinein eikä intubaatiobalmiutta ole</a></li>
+<li class="chapter" data-level="3.20" data-path="tentti-1.html"><a href="tentti-1.html#milloin-lapselle-tehd%C3%A4%C3%A4n-tonsillotomia-1"><i class="fa fa-check"></i><b>3.20</b> Milloin lapselle tehdään tonsillotomia?</a></li>
+<li class="chapter" data-level="3.21" data-path="tentti-1.html"><a href="tentti-1.html#karhea-kurkku-ja-muutos-kurkunp%C3%A4%C3%A4ss%C3%A4"><i class="fa fa-check"></i><b>3.21</b> Karhea kurkku ja muutos kurkunpäässä</a></li>
+<li class="chapter" data-level="3.22" data-path="tentti-1.html"><a href="tentti-1.html#vastaanotolle-tulee-3-vuotias-lapsi-jonka-%C3%A4iti-ep%C3%A4ilee-lapsella-korvatulehdusta.-mik%C3%A4-kliininen-l%C3%B6yd%C3%B6s-tukee-parhaiten-t%C3%A4t%C3%A4-diagnoosia"><i class="fa fa-check"></i><b>3.22</b> Vastaanotolle tulee 3-vuotias lapsi, jonka äiti epäilee lapsella korvatulehdusta. Mikä kliininen löydös tukee parhaiten tätä diagnoosia?</a></li>
+<li class="chapter" data-level="3.23" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-on-nielurisatulehduksen-yleisin-komplikaatio"><i class="fa fa-check"></i><b>3.23</b> Mikä on nielurisatulehduksen yleisin komplikaatio?</a></li>
+<li class="chapter" data-level="3.24" data-path="tentti-1.html"><a href="tentti-1.html#nen%C3%A4vammapotilaalla-nopeaa-samana-p%C3%A4iv%C3%A4n%C3%A4-tapahtuva-korval%C3%A4%C3%A4k%C3%A4rikonsultaatiota-edellytt%C3%A4v%C3%A4-diagnoosi-on"><i class="fa fa-check"></i><b>3.24</b> Nenävammapotilaalla nopeaa (samana päivänä tapahtuva) korvalääkärikonsultaatiota edellyttävä diagnoosi on</a></li>
+<li class="chapter" data-level="3.25" data-path="tentti-1.html"><a href="tentti-1.html#t%C3%A4rykalvoputket-molemmin-puolin-nyt-korvatulehdusep%C3%A4ily"><i class="fa fa-check"></i><b>3.25</b> Tärykalvoputket molemmin puolin, nyt korvatulehdusepäily</a></li>
+<li class="chapter" data-level="3.26" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-seuraavista-on-t%C3%A4rykalvopiston-t%C3%A4rkein-indikaatio-akuutissa-v%C3%A4likorvan-tulehduksessa"><i class="fa fa-check"></i><b>3.26</b> Mikä seuraavista on tärykalvopiston tärkein indikaatio akuutissa välikorvan tulehduksessa?</a></li>
+<li class="chapter" data-level="3.27" data-path="tentti-1.html"><a href="tentti-1.html#nen%C3%A4n-tukkoisuutta-ja-paineoireita-5kk"><i class="fa fa-check"></i><b>3.27</b> Nenän tukkoisuutta ja paineoireita 5kk</a></li>
+<li class="chapter" data-level="3.28" data-path="tentti-1.html"><a href="tentti-1.html#pojalla-pitkittyneet-yl%C3%A4hengitystieoireet-ja-oireiden-pahentumista"><i class="fa fa-check"></i><b>3.28</b> Pojalla pitkittyneet ylähengitystieoireet ja oireiden pahentumista</a></li>
+<li class="chapter" data-level="3.29" data-path="tentti-1.html"><a href="tentti-1.html#mik%C3%A4-seuraavista-ei-esiinny-toistuvana-kohtauksittaisena-huimauksena"><i class="fa fa-check"></i><b>3.29</b> Mikä seuraavista ei esiinny toistuvana kohtauksittaisena huimauksena?</a></li>
+<li class="chapter" data-level="3.30" data-path="tentti-1.html"><a href="tentti-1.html#vastaanotollesi-tulee-38-vuotias-mies-joka-kertoo-k%C3%A4rsineens%C3%A4-pitk%C3%A4%C3%A4n-kroonisen-rinosinuiitin-oireista.-mist%C3%A4-kroonisessa-rinosinuiitissa-on-useimmiten-kyse"><i class="fa fa-check"></i><b>3.30</b> Vastaanotollesi tulee 38-vuotias mies, joka kertoo kärsineensä pitkään kroonisen rinosinuiitin oireista. Mistä kroonisessa rinosinuiitissa on useimmiten kyse?</a></li>
+<li class="chapter" data-level="3.31" data-path="tentti-1.html"><a href="tentti-1.html#bisnesmiehen-nen%C3%A4ongelmat"><i class="fa fa-check"></i><b>3.31</b> Bisnesmiehen nenäongelmat</a></li>
+<li class="chapter" data-level="3.32" data-path="tentti-1.html"><a href="tentti-1.html#pitk%C3%A4%C3%A4n-tupakoineella-perusterveell%C3%A4-naisella-todetaan-%C3%A4%C3%A4nihuulen-t1-kokoluokan-epidermoidi-karsinooma.-mik%C3%A4-seuraavista-v%C3%A4itt%C3%A4mist%C3%A4-pit%C3%A4%C3%A4-todenn%C3%A4k%C3%B6isesti-paikkaansa"><i class="fa fa-check"></i><b>3.32</b> Pitkään tupakoineella, perusterveellä naisella todetaan äänihuulen T1-kokoluokan epidermoidi karsinooma. Mikä seuraavista väittämistä pitää todennäköisesti paikkaansa?</a></li>
+<li class="chapter" data-level="3.33" data-path="tentti-1.html"><a href="tentti-1.html#molemminpuolisessa-alaleukamurtumassa-tulee-varmistaa-ettei"><i class="fa fa-check"></i><b>3.33</b> Molemminpuolisessa alaleukamurtumassa tulee varmistaa, ettei</a></li>
+<li class="chapter" data-level="3.34" data-path="tentti-1.html"><a href="tentti-1.html#millainen-nystagmus-liittyy-hyv%C3%A4nlaatuiseen-asentohuimaukseen-dix-hallpiken-kokeessa"><i class="fa fa-check"></i><b>3.34</b> Millainen nystagmus liittyy hyvänlaatuiseen asentohuimaukseen Dix-Hallpiken kokeessa?</a></li>
+<li class="chapter" data-level="3.35" data-path="tentti-1.html"><a href="tentti-1.html#tupakointiin-liittyv%C3%A4-pehme%C3%A4-%C3%A4%C3%A4nihuuliturvotus-eli-reinken-%C3%B6deema"><i class="fa fa-check"></i><b>3.35</b> Tupakointiin liittyvä pehmeä äänihuuliturvotus eli Reinken ödeema</a></li>
+<li class="chapter" data-level="3.36" data-path="tentti-1.html"><a href="tentti-1.html#miten-voit-parantaa-n%C3%A4kyvyytt%C3%A4-%C3%A4%C3%A4nihuulten-tasolle-jos-potilaalla-on-herkk%C3%A4-oksennusrefleksi-1"><i class="fa fa-check"></i><b>3.36</b> Miten voit parantaa näkyvyyttä äänihuulten tasolle, jos potilaalla on herkkä oksennusrefleksi?</a></li>
+<li class="chapter" data-level="3.37" data-path="tentti-1.html"><a href="tentti-1.html#p%C3%A4%C3%A4n-ja-kaulan-alueen-pahanlaatuisten-kasvainen-hoidonsuunnittelukokous-suosittelee-kasvaimen-levinneisyysasteen-tnm-perusteella-tarvittavaa-hoitoa-potilaalle.-paikallisen-levyepiteelikarsinooman-hoitona-on-yleens%C3%A4"><i class="fa fa-check"></i><b>3.37</b> Pään ja kaulan alueen pahanlaatuisten kasvainen hoidonsuunnittelukokous suosittelee kasvaimen levinneisyysasteen (TNM) perusteella tarvittavaa hoitoa potilaalle. Paikallisen levyepiteelikarsinooman hoitona on yleensä</a></li>
+<li class="chapter" data-level="3.38" data-path="tentti-1.html"><a href="tentti-1.html#vanhan-naisen-ysk%C3%A4-ja-k%C3%A4he%C3%A4-%C3%A4%C3%A4ni"><i class="fa fa-check"></i><b>3.38</b> Vanhan naisen yskä ja käheä ääni</a></li>
+<li class="chapter" data-level="3.39" data-path="tentti-1.html"><a href="tentti-1.html#pojalla-flunssaoireita-silm%C3%A4n-seudun-kipua-ja-yl%C3%A4luomiturvotusta"><i class="fa fa-check"></i><b>3.39</b> Pojalla flunssaoireita, silmän seudun kipua ja yläluomiturvotusta</a></li>
+<li class="chapter" data-level="3.40" data-path="tentti-1.html"><a href="tentti-1.html#tukkoinen-ja-kostea-korva"><i class="fa fa-check"></i><b>3.40</b> Tukkoinen ja “kostea” korva</a></li>
+<li class="chapter" data-level="3.41" data-path="tentti-1.html"><a href="tentti-1.html#nainen-ei-pysty-nielem%C3%A4%C3%A4n"><i class="fa fa-check"></i><b>3.41</b> Nainen ei pysty nielemään</a></li>
+<li class="chapter" data-level="3.42" data-path="tentti-1.html"><a href="tentti-1.html#potilas-tulee-vastaanotolle-tulosyyll%C3%A4-nielemisvaikeuspalantunne.-mik%C3%A4-alla-olevista-viittaa-globulus-pharyngeus--tyyppiseen-oireeseen"><i class="fa fa-check"></i><b>3.42</b> Potilas tulee vastaanotolle tulosyyllä ”nielemisvaikeus/palantunne”. Mikä alla olevista viittaa Globulus pharyngeus -tyyppiseen oireeseen?</a></li>
+<li class="chapter" data-level="3.43" data-path="tentti-1.html"><a href="tentti-1.html#kroonisen-nielutulehduksen-ensisijainen-hoito"><i class="fa fa-check"></i><b>3.43</b> Kroonisen nielutulehduksen ensisijainen hoito?</a></li>
+<li class="chapter" data-level="3.44" data-path="tentti-1.html"><a href="tentti-1.html#nielupaiseen-hoito-sen-avaamisen-j%C3%A4lkeen"><i class="fa fa-check"></i><b>3.44</b> Nielupaiseen hoito sen avaamisen jälkeen</a></li>
+<li class="chapter" data-level="3.45" data-path="tentti-1.html"><a href="tentti-1.html#s%C3%A4rky%C3%A4-oikealla-poskella-ja-punktiossa-pahanhajuista-m%C3%A4rk%C3%A4%C3%A4"><i class="fa fa-check"></i><b>3.45</b> Särkyä oikealla poskella ja punktiossa pahanhajuista märkää</a></li>
+<li class="chapter" data-level="3.46" data-path="tentti-1.html"><a href="tentti-1.html#dysfagia-tarkoittaa"><i class="fa fa-check"></i><b>3.46</b> Dysfagia tarkoittaa</a></li>
+<li class="chapter" data-level="3.47" data-path="tentti-1.html"><a href="tentti-1.html#mit%C3%A4-tarkoittaa-kuulokojeen-induktiivinen-kuuntelu"><i class="fa fa-check"></i><b>3.47</b> Mitä tarkoittaa kuulokojeen induktiivinen kuuntelu?</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="tentti-2.html"><a href="tentti-2.html"><i class="fa fa-check"></i><b>4</b> 2023, tentti 2</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="tentti-2.html"><a href="tentti-2.html#aktiivisesti-vuotavan-nen%C3%A4verenvuotopotilaan-hoidossa-tyypillinen-eritt%C3%A4in-hy%C3%B6dyllinen-valmisteleva-toimi-on"><i class="fa fa-check"></i><b>4.1</b> Aktiivisesti vuotavan nenäverenvuotopotilaan hoidossa tyypillinen, erittäin hyödyllinen valmisteleva toimi on</a></li>
+<li class="chapter" data-level="4.2" data-path="tentti-2.html"><a href="tentti-2.html#vuotias-nainen-tulee-vastaanotollesi-hajuaistih%C3%A4iri%C3%B6n-vuoksi.-h%C3%A4nt%C3%A4-harmittaa-erityisesti-se-ett%C3%A4-kaikki-hyv%C3%A4t-hajuvedet-tuoksuvat-ulosteelta.-mik%C3%A4-seuraavista-termeist%C3%A4-tarkoittaa-t%C3%A4t%C3%A4-oiretta"><i class="fa fa-check"></i><b>4.2</b> 29-vuotias nainen tulee vastaanotollesi hajuaistihäiriön vuoksi. Häntä harmittaa erityisesti se, että kaikki hyvät hajuvedet tuoksuvat ulosteelta. Mikä seuraavista termeistä tarkoittaa tätä oiretta?</a></li>
+<li class="chapter" data-level="4.3" data-path="tentti-2.html"><a href="tentti-2.html#toteat-potilaallasi-nielupaiseen.-miss%C3%A4-seuraavista-tilanteista-potilasta-ei-v%C3%A4ltt%C3%A4m%C3%A4tt%C3%A4-tarvitse-l%C3%A4hett%C3%A4%C3%A4-knk-l%C3%A4%C3%A4k%C3%A4rille-vaan-voit-yritt%C3%A4%C3%A4-paiseen-avaamista-terveyskeskuksessa"><i class="fa fa-check"></i><b>4.3</b> Toteat potilaallasi nielupaiseen. Missä seuraavista tilanteista potilasta ei välttämättä tarvitse lähettää KNK-lääkärille, vaan voit yrittää paiseen avaamista terveyskeskuksessa?</a></li>
+<li class="chapter" data-level="4.4" data-path="tentti-2.html"><a href="tentti-2.html#milloin-l%C3%A4het%C3%A4n-kuorsaavan-lapsen-erikoissairaanhoitoon"><i class="fa fa-check"></i><b>4.4</b> Milloin lähetän kuorsaavan lapsen erikoissairaanhoitoon?</a></li>
+<li class="chapter" data-level="4.5" data-path="tentti-2.html"><a href="tentti-2.html#p%C3%A4%C3%A4n-ja-kaulan-alueen-pahanlaatuisten-kasvainten-hoidon-j%C3%A4lkeen-tapahtuvan-seurannan-tavoitteena-on-havaita-kasvaimen-uusiminen-aikaisessa-vaiheessa.-lis%C3%A4ksi-tavoitteena-on"><i class="fa fa-check"></i><b>4.5</b> Pään ja kaulan alueen pahanlaatuisten kasvainten hoidon jälkeen tapahtuvan seurannan tavoitteena on havaita kasvaimen uusiminen aikaisessa vaiheessa. Lisäksi tavoitteena on</a></li>
+<li class="chapter" data-level="4.6" data-path="tentti-2.html"><a href="tentti-2.html#silm%C3%A4npohjamurtumaan-liittyv%C3%A4-kliininen-havainto-voi-olla"><i class="fa fa-check"></i><b>4.6</b> Silmänpohjamurtumaan liittyvä kliininen havainto voi olla</a></li>
+<li class="chapter" data-level="4.7" data-path="tentti-2.html"><a href="tentti-2.html#potilas-tulee-vastaanotolle-tulosyyll%C3%A4-nielemisvaikeuspalantunne.-mik%C3%A4-alla-olevista-viittaa-kasvaimen-aiheuttamaan-nielemisongelmaan"><i class="fa fa-check"></i><b>4.7</b> Potilas tulee vastaanotolle tulosyyllä “nielemisvaikeus/palantunne”. Mikä alla olevista viittaa kasvaimen aiheuttamaan nielemisongelmaan?</a></li>
+<li class="chapter" data-level="4.8" data-path="tentti-2.html"><a href="tentti-2.html#toteat-45-vuotiaalla-puoli-vuotta-nen%C3%A4n-tukkoisuudesta-k%C3%A4rsineell%C3%A4-miehell%C3%A4-nen%C3%A4ss%C3%A4-molemmin-puolin-polyyppej%C3%A4.-mik%C3%A4-on-keskeisint%C3%A4-sairauden-hoidossa"><i class="fa fa-check"></i><b>4.8</b> Toteat 45-vuotiaalla puoli vuotta nenän tukkoisuudesta kärsineellä miehellä nenässä molemmin puolin polyyppejä. Mikä on keskeisintä sairauden hoidossa?</a></li>
+<li class="chapter" data-level="4.9" data-path="tentti-2.html"><a href="tentti-2.html#ns.-laapisk%C3%A4sittelyss%C3%A4-tarkoitukseen-tehdyll%C3%A4-hopeanitraattitikulla"><i class="fa fa-check"></i><b>4.9</b> Ns. laapiskäsittelyssä tarkoitukseen tehdyllä hopeanitraattitikulla</a></li>
+<li class="chapter" data-level="4.10" data-path="tentti-2.html"><a href="tentti-2.html#p%C3%A4%C3%A4n-ja-kaulan-alueen-kasvain-voi-joskus-olla-piiloutunut-ja-ensioireena-onkin-metastaasi-kaulalla.-mik%C3%A4li-ohutneulan%C3%A4ytteen-tulos-vahvistaa-metastaasiep%C3%A4ilyn-ja-knk-statuksessa-ei-tule-esiin-primaarikasvainta-mik%C3%A4-jatkotutkimus-on-ensisijainen"><i class="fa fa-check"></i><b>4.10</b> Pään ja kaulan alueen kasvain voi joskus olla piiloutunut ja ensioireena onkin metastaasi kaulalla. Mikäli ohutneulanäytteen tulos vahvistaa metastaasiepäilyn ja KNK-statuksessa ei tule esiin primaarikasvainta, mikä jatkotutkimus on ensisijainen</a></li>
+<li class="chapter" data-level="4.11" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-seuraavista-on-keskeisin-tutkimus-perifeerisen-ja-sentraalisen-huimauksen-erotusdiagnostiikassa"><i class="fa fa-check"></i><b>4.11</b> Mikä seuraavista on keskeisin tutkimus perifeerisen ja sentraalisen huimauksen erotusdiagnostiikassa?</a></li>
+<li class="chapter" data-level="4.12" data-path="tentti-2.html"><a href="tentti-2.html#vuotiaalla-naisella-on-jokakev%C3%A4inen-voimakasoireinen-allerginen-nuha-joka-oireilee-maksimaalisesta-l%C3%A4%C3%A4kityksest%C3%A4-huolimatta.-teet-l%C3%A4hetteen-sied%C3%A4tyshoitoon.-mik%C3%A4-seuraavista-v%C3%A4itteist%C3%A4-pit%C3%A4%C3%A4-paikkansa"><i class="fa fa-check"></i><b>4.12</b> 25-vuotiaalla naisella on jokakeväinen voimakasoireinen allerginen nuha, joka oireilee maksimaalisesta lääkityksestä huolimatta. Teet lähetteen siedätyshoitoon. Mikä seuraavista väitteistä pitää paikkansa?</a></li>
+<li class="chapter" data-level="4.13" data-path="tentti-2.html"><a href="tentti-2.html#toteat-nielemisvaivaiselta-potilaalta-kielen-tyven-alueen-yksitt%C3%A4isen-py%C3%B6re%C3%A4n-sile%C3%A4pintaisen-muutoksen.-mist%C3%A4-todenn%C3%A4k%C3%B6isesti-on-kyse"><i class="fa fa-check"></i><b>4.13</b> Toteat nielemisvaivaiselta potilaalta kielen tyven alueen yksittäisen pyöreän sileäpintaisen muutoksen. Mistä todennäköisesti on kyse?</a></li>
+<li class="chapter" data-level="4.14" data-path="tentti-2.html"><a href="tentti-2.html#tonsillektomian-j%C3%A4lkivuoto"><i class="fa fa-check"></i><b>4.14</b> Tonsillektomian jälkivuoto</a></li>
+<li class="chapter" data-level="4.15" data-path="tentti-2.html"><a href="tentti-2.html#kroonisen-korvak%C3%A4yt%C3%A4v%C3%A4ntulehduksen-tyypillisi%C3%A4-piirteit%C3%A4-ovat"><i class="fa fa-check"></i><b>4.15</b> Kroonisen korvakäytäväntulehduksen tyypillisiä piirteitä ovat</a></li>
+<li class="chapter" data-level="4.16" data-path="tentti-2.html"><a href="tentti-2.html#%C3%A4iti-tuo-3-vuotiaan-kasperin-vastaanotollesi-kuorsauksen-vuoksi.-mihin-kiinnit%C3%A4t-erityist%C3%A4-huomiota-lasta-tutkiessa"><i class="fa fa-check"></i><b>4.16</b> Äiti tuo 3-vuotiaan Kasperin vastaanotollesi kuorsauksen vuoksi. Mihin kiinnität erityistä huomiota lasta tutkiessa?</a></li>
+<li class="chapter" data-level="4.17" data-path="tentti-2.html"><a href="tentti-2.html#potilaani-jolla-on-selke%C3%A4sti-virheasennossa-oleva-nen%C3%A4murtuma-ilman-muita-vammoja"><i class="fa fa-check"></i><b>4.17</b> Potilaani, jolla on selkeästi virheasennossa oleva nenämurtuma ilman muita vammoja</a></li>
+<li class="chapter" data-level="4.18" data-path="tentti-2.html"><a href="tentti-2.html#nuhapolilla"><i class="fa fa-check"></i><b>4.18</b> Nuhapolilla</a></li>
+<li class="chapter" data-level="4.19" data-path="tentti-2.html"><a href="tentti-2.html#korvaper%C3%A4iseen-huimaukseen-liittyy-tyypillisesti"><i class="fa fa-check"></i><b>4.19</b> Korvaperäiseen huimaukseen liittyy tyypillisesti:</a></li>
+<li class="chapter" data-level="4.20" data-path="tentti-2.html"><a href="tentti-2.html#edellisest%C3%A4-tentist%C3%A4-tuttu-bakteerisinuiittikaveri-vastaanotolla"><i class="fa fa-check"></i><b>4.20</b> Edellisestä tentistä tuttu bakteerisinuiittikaveri vastaanotolla</a></li>
+<li class="chapter" data-level="4.21" data-path="tentti-2.html"><a href="tentti-2.html#reinolle-tehd%C3%A4%C3%A4n-laryngectomia-kurkunp%C3%A4%C3%A4n-rustorakenteisiin-levinneen-sy%C3%B6v%C3%A4n-hoitamiseksi.-mik%C3%A4-seuraavista-v%C3%A4itt%C3%A4mist%C3%A4-pit%C3%A4%C3%A4-paikkansa"><i class="fa fa-check"></i><b>4.21</b> Reinolle tehdään laryngectomia kurkunpään rustorakenteisiin levinneen syövän hoitamiseksi. Mikä seuraavista väittämistä pitää paikkansa?</a></li>
+<li class="chapter" data-level="4.22" data-path="tentti-2.html"><a href="tentti-2.html#potilas-tulee-terveyskeskuksen-vastaanotolle-ja-kertoo-k%C3%A4rsineens%C3%A4-vuosia-nielurisojen-proppuvaivasta-ja-toistuvasta-kurkkukivusta.-mik%C3%A4-on-ensisijainen-hoitomuoto"><i class="fa fa-check"></i><b>4.22</b> Potilas tulee terveyskeskuksen vastaanotolle ja kertoo kärsineensä vuosia nielurisojen proppuvaivasta ja toistuvasta kurkkukivusta. Mikä on ensisijainen hoitomuoto?</a></li>
+<li class="chapter" data-level="4.23" data-path="tentti-2.html"><a href="tentti-2.html#vuotiaalla-naisella-on-alkanut-samana-aamuna-py%C3%B6ritt%C3%A4v%C3%A4-huimaus-korvan-tukkoisuuden-tunne-ja-pahoinvointi-joka-on-kest%C3%A4nyt-pari-tuntia.-tutkittaessa-ei-ole-l%C3%B6yd%C3%B6ksi%C3%A4-ja-oire-on-mennyt-ohitse.-mihin-oireilu-voi-viitata"><i class="fa fa-check"></i><b>4.23</b> 31-vuotiaalla naisella on alkanut samana aamuna pyörittävä huimaus, korvan tukkoisuuden tunne ja pahoinvointi, joka on kestänyt pari tuntia. Tutkittaessa ei ole löydöksiä ja oire on mennyt ohitse. Mihin oireilu voi viitata?</a></li>
+<li class="chapter" data-level="4.24" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-on-suomessa-aikuisilla-kuulonmittauksessa-todettu-kuulonkuntoutukseen-l%C3%A4hett%C3%A4misen-db-raja"><i class="fa fa-check"></i><b>4.24</b> Mikä on Suomessa aikuisilla kuulonmittauksessa todettu kuulonkuntoutukseen lähettämisen dB-raja?</a></li>
+<li class="chapter" data-level="4.25" data-path="tentti-2.html"><a href="tentti-2.html#hammas-poistettu-ja-nyt-alaleuan-turvotusta-nielemiskipua-puuromaista-puhetta-ja-trismus"><i class="fa fa-check"></i><b>4.25</b> Hammas poistettu ja nyt alaleuan turvotusta, nielemiskipua, puuromaista puhetta ja trismus</a></li>
+<li class="chapter" data-level="4.26" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-seuraavista-ei-ole-k%C3%A4yt%C3%A4nn%C3%B6ss%C3%A4-%C3%A4killisen-hengitystieongelman-taustalla"><i class="fa fa-check"></i><b>4.26</b> Mikä seuraavista EI ole käytännössä äkillisen hengitystieongelman taustalla</a></li>
+<li class="chapter" data-level="4.27" data-path="tentti-2.html"><a href="tentti-2.html#aikaisempi-poskionteloleikkaus-ja-nyt-haluaa-lavaation-sinuiittioireiden-takia"><i class="fa fa-check"></i><b>4.27</b> Aikaisempi poskionteloleikkaus ja nyt haluaa lavaation sinuiittioireiden takia</a></li>
+<li class="chapter" data-level="4.28" data-path="tentti-2.html"><a href="tentti-2.html#mill%C3%A4-audiogrammin-taajuusalueella-meluvamman-kuoppa-on-tyypillisesti-n%C3%A4ht%C3%A4viss%C3%A4"><i class="fa fa-check"></i><b>4.28</b> Millä audiogrammin taajuusalueella meluvamman kuoppa on tyypillisesti nähtävissä?</a></li>
+<li class="chapter" data-level="4.29" data-path="tentti-2.html"><a href="tentti-2.html#aikuisella-potilaalla-on-ollut-parin-p%C3%A4iv%C3%A4n-ajan-korvakipua.-mik%C3%A4-kliininen-l%C3%B6yd%C3%B6s-parhaiten-poissulkee-v%C3%A4likorvatulehduksen"><i class="fa fa-check"></i><b>4.29</b> Aikuisella potilaalla on ollut parin päivän ajan korvakipua. Mikä kliininen löydös parhaiten poissulkee välikorvatulehduksen?</a></li>
+<li class="chapter" data-level="4.30" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-on-yleisin-korvaper%C3%A4isen-huimauksen-syy"><i class="fa fa-check"></i><b>4.30</b> Mikä on yleisin korvaperäisen huimauksen syy?</a></li>
+<li class="chapter" data-level="4.31" data-path="tentti-2.html"><a href="tentti-2.html#aikaisemmasta-tentist%C3%A4-tutun-kaverin-diagnoosi-viimeksi-hoito"><i class="fa fa-check"></i><b>4.31</b> Aikaisemmasta tentistä tutun kaverin diagnoosi (viimeksi hoito)</a></li>
+<li class="chapter" data-level="4.32" data-path="tentti-2.html"><a href="tentti-2.html#%C3%A4%C3%A4nihuulten-atrofia-mik%C3%A4-seuraavista-v%C3%A4itt%C3%A4mist%C3%A4-on-oikein"><i class="fa fa-check"></i><b>4.32</b> Äänihuulten atrofia: mikä seuraavista väittämistä on oikein?</a></li>
+<li class="chapter" data-level="4.33" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-seuraavista-ei-kuulu-%C3%A4%C3%A4nihuulihalvauksen-tyyppioireisiin"><i class="fa fa-check"></i><b>4.33</b> Mikä seuraavista EI KUULU äänihuulihalvauksen tyyppioireisiin?</a></li>
+<li class="chapter" data-level="4.34" data-path="tentti-2.html"><a href="tentti-2.html#%C3%A4%C3%A4nihuulen-granulooman-etiologisiin-syihin-ei-kuulu"><i class="fa fa-check"></i><b>4.34</b> Äänihuulen granulooman etiologisiin syihin EI KUULU</a></li>
+<li class="chapter" data-level="4.35" data-path="tentti-2.html"><a href="tentti-2.html#vuotiaalla-hildalla-on-ongelmia-ruokailussa.-ruoka-j%C3%A4%C3%A4-py%C3%B6rim%C3%A4%C3%A4n-suuhun-ja-h%C3%A4n-on-siirtynyt-sy%C3%B6m%C3%A4%C3%A4n-pehme%C3%A4%C3%A4-ja-sosemaista-ruokaa.-mik%C3%A4-seuraavista-syist%C3%A4-n%C3%A4ill%C3%A4-tiedoilla-on-ep%C3%A4todenn%C3%A4k%C3%B6isin"><i class="fa fa-check"></i><b>4.35</b> 92-vuotiaalla Hildalla on ongelmia ruokailussa. Ruoka jää pyörimään suuhun ja hän on siirtynyt syömään pehmeää ja sosemaista ruokaa. Mikä seuraavista syistä näillä tiedoilla on EPÄTODENNÄKÖISIN?</a></li>
+<li class="chapter" data-level="4.36" data-path="tentti-2.html"><a href="tentti-2.html#vuotias-leipuri-tulee-vastaanotollesi-ty%C3%B6terveyteen-nuhaoireiden-vuoksi.-potilas-on-jo-useiden-kuukausien-ajan-kokenut-nen%C3%A4n-menev%C3%A4n-tukkoon-jauhoja-k%C3%A4sitelt%C3%A4ess%C3%A4.-ep%C3%A4ilet-ammattinuhaa.-mik%C3%A4-seuraavista-v%C3%A4itteist%C3%A4-pit%C3%A4%C3%A4-paikkansa"><i class="fa fa-check"></i><b>4.36</b> 30-vuotias leipuri tulee vastaanotollesi työterveyteen nuhaoireiden vuoksi. Potilas on jo useiden kuukausien ajan kokenut nenän menevän tukkoon jauhoja käsiteltäessä. Epäilet ammattinuhaa. Mikä seuraavista väitteistä pitää paikkansa?</a></li>
+<li class="chapter" data-level="4.37" data-path="tentti-2.html"><a href="tentti-2.html#vuosia-tupakoineella-on-poikkeava-limakalvomuutos-ikenell%C3%A4-oikean-alakulmahampaan-kohdala.-mill%C3%A4-hampaan-numerolla-identifioit-muutoksen-kohdan-suussa"><i class="fa fa-check"></i><b>4.37</b> Vuosia tupakoineella on poikkeava limakalvomuutos ikenellä oikean alakulmahampaan kohdal!a. Millä hampaan numerolla identifioit muutoksen kohdan suussa?</a></li>
+<li class="chapter" data-level="4.38" data-path="tentti-2.html"><a href="tentti-2.html#vuotiaalla-miehell%C3%A4-on-5-kk-ajan-ollut-jatkuvaa-nen%C3%A4n-tukkoisuutta-liman-valumista-nieluun-hajuaistin-alenemaa-ja-ajoittaista-paineen-tunnetta-kasvoilla.-kortisonisuihke-on-s%C3%A4%C3%A4nn%C3%B6llisesti-k%C3%A4yt%C3%B6ss%C3%A4.-miten-toimit"><i class="fa fa-check"></i><b>4.38</b> 53-vuotiaalla miehellä on 5 kk ajan ollut jatkuvaa nenän tukkoisuutta, liman valumista nieluun, hajuaistin alenemaa ja ajoittaista paineen tunnetta kasvoilla. Kortisonisuihke on säännöllisesti käytössä. Miten toimit?</a></li>
+<li class="chapter" data-level="4.39" data-path="tentti-2.html"><a href="tentti-2.html#ep%C3%A4ilet-38-vuotiaalla-naisella-akuuttia-poskiontelotulehdusta.-mik%C3%A4-seuraavista-on-tyypillinen-kliininen-l%C3%B6yd%C3%B6s-kyseisess%C3%A4-sairaudessa"><i class="fa fa-check"></i><b>4.39</b> Epäilet 38-vuotiaalla naisella akuuttia poskiontelotulehdusta. Mikä seuraavista on tyypillinen kliininen löydös kyseisessä sairaudessa?</a></li>
+<li class="chapter" data-level="4.40" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-seuraavista-on-selkein-indikaatio-p%C3%A4ivystykselliseen-nielurisaleikkaukseen-eli-ns.-kuuman-vaiheen-tonsillektomiaan"><i class="fa fa-check"></i><b>4.40</b> Mikä seuraavista on selkein indikaatio päivystykselliseen nielurisaleikkaukseen eli ns. kuuman vaiheen tonsillektomiaan?</a></li>
+<li class="chapter" data-level="4.41" data-path="tentti-2.html"><a href="tentti-2.html#kun-l%C3%A4hetetietojen-perusteella-on-ep%C3%A4ily-p%C3%A4%C3%A4n-ja-kaulan-alueen-pahanlaatuisesta-kasvaimesta-erikoissairaanhoidon-ensiarvio-pyrit%C3%A4%C3%A4n-j%C3%A4rjest%C3%A4m%C3%A4%C3%A4n"><i class="fa fa-check"></i><b>4.41</b> Kun lähetetietojen perusteella on epäily pään ja kaulan alueen pahanlaatuisesta kasvaimesta, erikoissairaanhoidon ensiarvio pyritään järjestämään</a></li>
+<li class="chapter" data-level="4.42" data-path="tentti-2.html"><a href="tentti-2.html#lapsella-pitkittyneet-ja-pahentuneen-yl%C3%A4hengitystieinfektio-oireet"><i class="fa fa-check"></i><b>4.42</b> Lapsella pitkittyneet ja pahentuneen ylähengitystieinfektio-oireet</a></li>
+<li class="chapter" data-level="4.43" data-path="tentti-2.html"><a href="tentti-2.html#teet-40-vuotiaasta-pitk%C3%A4llisest%C3%A4-rinosinuiittioireista-k%C3%A4rsiv%C3%A4st%C3%A4-potilaasta-l%C3%A4hetteen-korva--nen%C3%A4--ja-kurkkutautien-poliklinikalle.-mik%C3%A4-on-ensisijainen-kuvantamistutkimus-erikoissairaanhoidossa-kroonista-rinosinuiittia-ep%C3%A4ilt%C3%A4ess%C3%A4"><i class="fa fa-check"></i><b>4.43</b> Teet 40-vuotiaasta pitkällisestä rinosinuiittioireista kärsivästä potilaasta lähetteen korva-, nenä- ja kurkkutautien poliklinikalle. Mikä on ensisijainen kuvantamistutkimus erikoissairaanhoidossa kroonista rinosinuiittia epäiltäessä?</a></li>
+<li class="chapter" data-level="4.44" data-path="tentti-2.html"><a href="tentti-2.html#mit%C3%A4-otoakustinen-emissio-mittaa"><i class="fa fa-check"></i><b>4.44</b> Mitä otoakustinen emissio mittaa?</a></li>
+<li class="chapter" data-level="4.45" data-path="tentti-2.html"><a href="tentti-2.html#laakea-k%C3%A4yr%C3%A4-tympanometriassa-ja-heikosti-liikkuva-t%C3%A4rykalvo-korvatulehduksen-kontrollissa"><i class="fa fa-check"></i><b>4.45</b> Laakea käyrä tympanometriassa ja heikosti liikkuva tärykalvo korvatulehduksen kontrollissa</a></li>
+<li class="chapter" data-level="4.46" data-path="tentti-2.html"><a href="tentti-2.html#miss%C3%A4-tilanteessa-aikuiselle-potilaalle-tulee-tehd%C3%A4-t%C3%A4rykalvopisto"><i class="fa fa-check"></i><b>4.46</b> Missä tilanteessa aikuiselle potilaalle tulee tehdä tärykalvopisto?</a></li>
+<li class="chapter" data-level="4.47" data-path="tentti-2.html"><a href="tentti-2.html#mik%C3%A4-on-yleisin-syy-pahanhajuiselle-hengitykselle"><i class="fa fa-check"></i><b>4.47</b> Mikä on yleisin syy pahanhajuiselle hengitykselle?</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html"><i class="fa fa-check"></i><b>5</b> Footnotes and citations</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#footnotes"><i class="fa fa-check"></i><b>5.1</b> Footnotes</a></li>
+<li class="chapter" data-level="5.2" data-path="footnotes-and-citations.html"><a href="footnotes-and-citations.html#citations"><i class="fa fa-check"></i><b>5.2</b> Citations</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="blocks.html"><a href="blocks.html"><i class="fa fa-check"></i><b>6</b> Blocks</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="blocks.html"><a href="blocks.html#equations"><i class="fa fa-check"></i><b>6.1</b> Equations</a></li>
+<li class="chapter" data-level="6.2" data-path="blocks.html"><a href="blocks.html#theorems-and-proofs"><i class="fa fa-check"></i><b>6.2</b> Theorems and proofs</a></li>
+<li class="chapter" data-level="6.3" data-path="blocks.html"><a href="blocks.html#callout-blocks"><i class="fa fa-check"></i><b>6.3</b> Callout blocks</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="sharing-your-book.html"><a href="sharing-your-book.html"><i class="fa fa-check"></i><b>7</b> Sharing your book</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="sharing-your-book.html"><a href="sharing-your-book.html#publishing"><i class="fa fa-check"></i><b>7.1</b> Publishing</a></li>
+<li class="chapter" data-level="7.2" data-path="sharing-your-book.html"><a href="sharing-your-book.html#pages"><i class="fa fa-check"></i><b>7.2</b> 404 pages</a></li>
+<li class="chapter" data-level="7.3" data-path="sharing-your-book.html"><a href="sharing-your-book.html#metadata-for-sharing"><i class="fa fa-check"></i><b>7.3</b> Metadata for sharing</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank"></a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">KNK-tärpit</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="sharing-your-book" class="section level1 hasAnchor" number="7">
+<h1><span class="header-section-number">Kappale 7</span> Sharing your book<a href="sharing-your-book.html#sharing-your-book" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="publishing" class="section level2 hasAnchor" number="7.1">
+<h2><span class="header-section-number">7.1</span> Publishing<a href="sharing-your-book.html#publishing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>HTML books can be published online, see: <a href="https://bookdown.org/yihui/bookdown/publishing.html" class="uri">https://bookdown.org/yihui/bookdown/publishing.html</a></p>
+</div>
+<div id="pages" class="section level2 hasAnchor" number="7.2">
+<h2><span class="header-section-number">7.2</span> 404 pages<a href="sharing-your-book.html#pages" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>By default, users will be directed to a 404 page if they try to access a webpage that cannot be found. If you’d like to customize your 404 page instead of using the default, you may add either a <code>_404.Rmd</code> or <code>_404.md</code> file to your project root and use code and/or Markdown syntax.</p>
+</div>
+<div id="metadata-for-sharing" class="section level2 hasAnchor" number="7.3">
+<h2><span class="header-section-number">7.3</span> Metadata for sharing<a href="sharing-your-book.html#metadata-for-sharing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Bookdown HTML books will provide HTML metadata for social sharing on platforms like Twitter, Facebook, and LinkedIn, using information you provide in the <code>index.Rmd</code> YAML. To setup, set the <code>url</code> for your book and the path to your <code>cover-image</code> file. Your book’s <code>title</code> and <code>description</code> are also used.</p>
+<p>This <code>gitbook</code> uses the same social sharing data across all chapters in your book- all links shared will look the same.</p>
+<p>Specify your book’s source repository on GitHub using the <code>edit</code> key under the configuration options in the <code>_output.yml</code> file, which allows users to suggest an edit by linking to a chapter’s source file.</p>
+<p>Read more about the features of this output format here:</p>
+<p><a href="https://pkgs.rstudio.com/bookdown/reference/gitbook.html" class="uri">https://pkgs.rstudio.com/bookdown/reference/gitbook.html</a></p>
+<p>Or use:</p>
+<div class="sourceCode" id="cb145"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb145-1"><a href="sharing-your-book.html#cb145-1" tabindex="-1"></a>?bookdown<span class="sc">::</span>gitbook</span></code></pre></div>
+
+</div>
+</div>
+<script>
+// Click-to-reveal solution functionality
+function toggleSolution(button) {
+  // Try to find solution container - first with .solution class, then by finding parent with .solution-content
+  let solution = button.closest('.solution');
+  
+  // Fallback: if no .solution class found, find parent that contains .solution-content
+  if (!solution) {
+    let parent = button.parentElement;
+    while (parent && parent !== document.body) {
+      const content = parent.querySelector('.solution-content');
+      if (content) {
+        solution = parent;
+        // Add the solution class if missing
+        if (!solution.classList.contains('solution')) {
+          solution.classList.add('solution');
+        }
+        break;
+      }
+      parent = parent.parentElement;
+    }
+  }
+  
+  if (!solution) {
+    console.error('Solution container not found');
+    return;
+  }
+  
+  const content = solution.querySelector('.solution-content');
+  if (!content) {
+    console.error('Solution content not found');
+    return;
+  }
+  
+  const isRevealed = content.classList.contains('revealed');
+  
+  if (isRevealed) {
+    content.classList.remove('revealed');
+    button.classList.remove('revealed');
+    const label = button.getAttribute('data-label');
+    button.textContent = label ? label : (button.textContent.includes('Piilota') ? 'Vastaus' : 'Click to reveal answer');
+  } else {
+    content.classList.add('revealed');
+    button.classList.add('revealed');
+    const hideLabel = button.getAttribute('data-hide-label');
+    if (hideLabel) {
+      button.textContent = hideLabel;
+    } else if (button.textContent === 'Vastaus') {
+      button.textContent = 'Piilota vastaus';
+    } else {
+      button.textContent = 'Click to hide answer';
+    }
+  }
+}
+
+// Event delegation handler (named function so we can remove it if needed)
+var solutionClickHandler = function(e) {
+  var button = null;
+  if (e.target.classList && e.target.classList.contains('solution-button')) {
+    button = e.target;
+  } else if (e.target.closest) {
+    button = e.target.closest('.solution-button');
+  }
+  
+  if (button) {
+    e.preventDefault();
+    e.stopPropagation();
+    toggleSolution(button);
+  }
+};
+
+// Use event delegation for click handling (works with dynamically added content)
+function setupEventDelegation() {
+  // Use jQuery if available (better event delegation)
+  if (typeof jQuery !== 'undefined') {
+    jQuery(document).off('click', '.solution-button').on('click', '.solution-button', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      toggleSolution(this);
+    });
+    return;
+  }
+  
+  // Vanilla JS event delegation - remove old listener first if it exists
+  document.removeEventListener('click', solutionClickHandler, true);
+  document.addEventListener('click', solutionClickHandler, true);
+}
+
+// Initialize solution buttons
+function initializeSolutions() {
+  // Remove onclick handlers and ensure buttons have proper structure
+  const solutionButtons = document.querySelectorAll('.solution-button');
+  solutionButtons.forEach(function(button) {
+    // Remove old onclick if exists (we'll use event delegation instead)
+    button.removeAttribute('onclick');
+    
+    // Ensure the parent has the solution class if it has solution-content
+    const parent = button.parentElement;
+    if (parent && parent.querySelector('.solution-content') && !parent.classList.contains('solution')) {
+      parent.classList.add('solution');
+    }
+  });
+}
+
+// Setup event delegation (works with dynamically loaded content)
+setupEventDelegation();
+
+// Initialize on page load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', function() {
+    initializeSolutions();
+    setupEventDelegation();
+  });
+} else {
+  initializeSolutions();
+  setupEventDelegation();
+}
+
+// Re-initialize when GitBook page changes (for dynamic content loading)
+// Use jQuery if available (GitBook provides it)
+(function setupGitBookIntegration() {
+  // Try using jQuery (GitBook provides this)
+  if (typeof jQuery !== 'undefined') {
+    jQuery(document).ready(function($) {
+      initializeSolutions();
+      setupEventDelegation();
+      
+      // Re-initialize when GitBook changes pages
+      if (typeof gitbook !== 'undefined' && gitbook.events) {
+        gitbook.events.bind('page.change', function() {
+          setTimeout(function() {
+            initializeSolutions();
+            setupEventDelegation();
+          }, 100);
+        });
+      }
+    });
+    return;
+  }
+  
+  // Fallback: wait for GitBook to be available
+  setTimeout(function() {
+    if (typeof gitbook !== 'undefined' && gitbook.events) {
+      gitbook.events.bind('page.change', function() {
+        setTimeout(function() {
+          initializeSolutions();
+          setupEventDelegation();
+        }, 100);
+      });
+    }
+  }, 500);
+})();
+</script>
+
+
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="blocks.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/USERNAME/REPO/edit/BRANCH/06-share.Rmd",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["_main.pdf", "_main.epub"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>
