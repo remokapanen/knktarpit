@@ -199,9 +199,10 @@ d: Päinvastoin matala verenpaine olisi erittäin huolestuttava hemodynaamisen k
 
 Äänihuulten atrofia on hyvin tyypillistä ikääntyessä ja on ikääntymiseen liittyvä normaali ilmiö. Se aiheuttaa äänen käheyttä -> presbyfonia eli ikäkäheys, jossa ääni muuttuu pikku hiljaa iän myötä hiljaisemmaksi ja vuotoisemmaksi. Käheyden aiheuttaa äänihuulen mediaalireunojen kovertuminen (atrofia), jolloin äänihuulia on vaikea saada tiiviisti yhteen. 
 
-Hoitona useimmiten riittää, että antaa potilaallen tiedon käheyden hyvänlaatuisesta. Tilanteissa, joissa äänihuulen atrofia johtaa hankalaan kommunikaatio-ongelmaan, on sitä viime vuosina lisääntyvässä määrin hoidettu äänihuulia täyttävällä injektiolla.
+Hoitona useimmiten riittää, että antaa potilaalle tiedon käheyden hyvänlaatuisesta. Tilanteissa, joissa äänihuulen atrofia johtaa hankalaan kommunikaatio-ongelmaan, on sitä viime vuosina lisääntyvässä määrin hoidettu äänihuulia täyttävällä injektiolla.
 
 Kuvassa näet mediaalista kovertumista atrofiasta johtuen
+
 ![](images/atrofisetäänihuulet.png)
   </div>
 </div>
@@ -318,7 +319,7 @@ d: Paikalliset glukokortikoidivalmisteet ovat ensisijainen oireita lievittävä 
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      d
 
 Nenän vierasesineet ovat hyvin yleisiä pienillä lapsilla. Tyypillisiä oireita ovat toispuoleinen tukkoisuus, pahanhajuinen tai märkäinen erite, joskus myös verenvuoto. Oireet voivat olla kestäneet pitkäänkin. Vierasesineet löytyvät tällöin usein alempien nenäkäytävien alueelta ja ovat yleensä helposti nähtävissä nenäpeilillä. 
 
@@ -328,7 +329,7 @@ a: Todella harvinaisia. Lapsilla hyvänlaatuiset nenätuumorit ovat yleesä juve
 
 b: Hammasperäinen sinuiitti on harvinainen (vaikka ei täysin mahdoton) 4-vuotiailla, koska hampaat eivät ole vielä puhjenneet kunnolla eikä isot sivuontelot ole vielä kunnolla kehittyneet. 
 
-d: Nenän neuroektodermaaliset kehityshäiriöt ovat muutoksia, jotka hernioituvat kallonpohjan luuaukkojen kautta nenän alueelle. Meningoseele sisältää aivokalvoa ja likvoria ja enkefalomeningoseele lisäksi aivokudosta. Hernioituminen voi tapahtua nenän ulko- tai sisäpuolelle. Voi aiheuttaa kirkasta CSF:n vuotoa. Painettaessa muodostuma usein reponoituu aivojen puolelle ja on näin erotettavissa glioomasta. Muutos saattaa muistuttaa nenäpolyyppia. On hyvä muistaa, että lapsilla polyypit ovat erittäin harvinaisia. Sen vuoksi lasten nenänselän tai nenäontelon pehmeästä massasta ei pidä ottaa koepaloja. Potilas lähetetään erikoissairaanhoitoon nasoskopiaa, TT- ja MRI- tutkimuksia varten. Hoito on leikkaus, joka tehdään yhteistyössä neurokirurgian ja KNK-yksikön kanssa.
+c: Nenän neuroektodermaaliset kehityshäiriöt ovat muutoksia, jotka hernioituvat kallonpohjan luuaukkojen kautta nenän alueelle. Meningoseele sisältää aivokalvoa ja likvoria ja enkefalomeningoseele lisäksi aivokudosta. Hernioituminen voi tapahtua nenän ulko- tai sisäpuolelle. Voi aiheuttaa kirkasta CSF:n vuotoa. Painettaessa muodostuma usein reponoituu aivojen puolelle ja on näin erotettavissa glioomasta. Muutos saattaa muistuttaa nenäpolyyppia. On hyvä muistaa, että lapsilla polyypit ovat erittäin harvinaisia. Sen vuoksi lasten nenänselän tai nenäontelon pehmeästä massasta ei pidä ottaa koepaloja. Potilas lähetetään erikoissairaanhoitoon nasoskopiaa, TT- ja MRI- tutkimuksia varten. Hoito on leikkaus, joka tehdään yhteistyössä neurokirurgian ja KNK-yksikön kanssa.
   </div>
 </div>
 
@@ -344,7 +345,7 @@ d: Nenän neuroektodermaaliset kehityshäiriöt ovat muutoksia, jotka hernioituv
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      b
 
 Toiminnallisella äänihuulisalpauksella tarkoitetaan tilannetta, jossa äänihuulet liikkuvat hengityksen aikana epätarkoituksenmukaisesti. Oireena on sisäänhengityksen vaikeutuminen tai salpautuminen kokonaan salpautuminen usein voimakkaan rasituksen aikana; myös hengitystieinfektiot, henkisesti ahdistava tilanne (esim. esiintymisjännitys) tai voimakkaat tuoksut voivat provosoida kohtauksen. Ilmenee useimmiten nuorilla tai nuorilla aikuisilla, useammin naisilla. Ei ole harvinainen ilmiö, jopa n. 5-10%. 
 
@@ -388,10 +389,10 @@ d: Pienikokoisten ja yksittäisten aktiinisten keratoosien ja in situ -karsinoom
 
 27-vuotiaalla miehellä alkoi 10 vrk sitten flunssaoireisto. Viimeisten parin päivän ajan hänen nenänsä on ollut täysin tukossa ja nenäerite on muuttunut paksummaksi. Lisäksi poskia pakottaa, päätä särkee ja eilen nousi myös kuume ad 38 astetta. Potilaalla ei ole tiedossa lääkeaineallergioita. Toteat nielun takaseinämässä limavanan. Epäilet bakteeriperäistä poskiontelotulehdusta. Päädyt aloittamaan antimikrobisen lääkehoidon. Mikä on ensisijainen antibioottivalintasi?
 
-a. Sulfa-trimetopriimi
-b. Amoksisilliini
-c. Atsitromysiini
-d. Kefaleksiin
+- a. Sulfa-trimetopriimi
+- b. Amoksisilliini
+- c. Atsitromysiini
+- d. Kefaleksiin
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">

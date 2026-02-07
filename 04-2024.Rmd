@@ -690,7 +690,7 @@ d: Bipolaaria saa käyttää harkiten verenvuodon hallintaan.
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      d
 
 Hengitystieinfektioita voidaan pitää äkillisen välikorvatulehduksen merkittävimpänä riskitekijänä, koska äkillinen välikorvatulehdus ilmaantuu useimmiten ylähengitysteiden virusinfektion aikana tai heti sen jälkeen.
 
@@ -718,7 +718,7 @@ c: Passiivinen tupakointi on kyllä riskitekijä, mutta ei tärkein
   <div class="solution-content">
       a
 
-Kyseessä voi esim. olla ihan normaaleja rustorakenteita tai jotain muuta, mutta niitä ei näkyisi gastroskopiassa. 
+Kyseessä on tyypillisesti ihan normaaleja rustorakenteita tai jotain muuta, kuten lihasten supistuminen nieltäessä.
 
 b,c,d: Viittaavat ruokatorven ongelmiin -> gastroskopia 
   </div>

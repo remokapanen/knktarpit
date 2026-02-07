@@ -154,7 +154,7 @@ Pään kääntämisen vaikeus ja kaulan punoitus, turvotus tai arkuus taas viitt
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      a
 
 Nielurisan kryptan tyhjenemisen estyessä voi muodostua retentiokysta. Se on hyvänlaatuinen ja oireeton. Potilas saattaa huomata sen sattumalta ja usein huolestuu tilanteesta. Usein oireetonta kystaa ei tarvitse hoitaa. Tarvittaessa kysta voidaan avata pintapuudutuksen jälkeen veitsellä ja imeä tyhjäksi ja tarvittaessa tonsillektomia estää kystan uusiutumisen. 
 
@@ -299,7 +299,7 @@ Audiogrammia tulkitessa taajuusalueet jaetaan yleensä kolmeen alueeseen:
 
 Puheen ymmärrettävyys (erityisesti hälyssä) perustuu ennen kaikkea konsonantteihin ja erityisesti korkeisiin konsonantteihin (esim. s, t ja k), jotka sijoittuvat korkeille taajuuksille. Ikäkuulossa varsinkin korkeiden taajuuksien kynnykset laskevat -> puheen ymmärtäminen hälyssä heikkenee. 
 
-![](images/puhebanaani)
+![](images/puhebanaani.png)
   </div>
 </div>
 
@@ -459,8 +459,10 @@ c: Toinen vaihtoehto Epleyn manööverille posteriorisen kaarikäytävän BPPV:n
 d: Osa HINTS plus -tutkimusta. Sentraaliseen huimaukseen viittaa se, että silmä hakeutuu peitettynä virheasentoon (dyskonjugaatio) ja kun silmä paljastetaan, voidaan havaita sen vertikaalista korjausliikettä (pelkästään horisontaaliset korvajusliikkeet ovat benignejä (esim. karsastus)). 
 ![](images/hit.png)
 Tässä normaali nykäisytesti -> huimauspotilaalla huolestuttava löydös ja viittaa sentraaliseen syyhyn
+
 ![](images/normalhit.gif)
 Tässä taas epänormaali nykäisytesti (voi havaita korjaussakadin) -> huimauspotilaalla hyvä löydös ja viittaa vestibulaarineuriittiin
+
 ![Epänormaali nykäisytesti](images/abnormalhit.gif)
 ![](images/vertigoalgorithm.png)
   </div>
@@ -490,7 +492,7 @@ Vertikaalinen nystagmus on aina huolestuttava sentraalisen syyn suhteen.
 
 ## 25-vuotias lääketieteen opiskelija yrittää rikkoa kliinisen opettajan tekemää ainejärjestön penkkipunnerrusennätystä. Nostaessaan painoa hänellä alkaa välittömästi kiertohuimaus sekä vasemman korvan tinnitus sekä kuulonalenema. Todennäköisin diagnoosi on:
 
-- a) a. vertebralis dissekaatio
+- a) vertebralis-dissekaatio
 - b) Perilymfafisteli
 - c) Duraalinen fisteli
 - d) Vestibulaarineuriitti
@@ -556,11 +558,11 @@ b ja c: Kaikki äänityötä tekevät aikuiset kyhmypotilaat pitää lähettää
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      a
 
 Kurkunpään polyyppi ei liity allergiseen taipumukseen (kuten usein nenäpolyyppi), vaan se syntyy muilla mekanismeilla. Toispuolisen äänihuulipolyypin takana lienee useimmiten äkillinen mekaaninen trauma. 
 
-Pirjo on ääntään paljon kuormittava (personal trainer, aerobic-ohjaaja) → voimakas fonotrauma mahdollinen. Flunssa on voinut myös aiheuttaa voimakasta yskää, joka voi myös olla äänihuulitrauman taustalla. Trauma aiheuttaa verenpurkauman ja se kasvaa usein pehmeäksi, helttamaiseksi tai pallomaiseksi ulokkeeksi äänihuulen mediaalireunassa. Polyyppi aiheuttaa jatkuvan äänen karheuden ja vuotoisuuden, koska äänirako ei pääse sulkeutumaan normaalisti
+Pirjo on ääntään paljon kuormittava (personal trainer, aerobic-ohjaaja) → voimakas fonotrauma mahdollinen. Flunssa on voinut myös aiheuttaa voimakasta yskää, joka voi myös olla äänihuulitrauman taustalla. Trauma aiheuttaa verenpurkauman ja se kasvaa usein pehmeäksi, helttamaiseksi tai pallomaiseksi ulokkeeksi äänihuulen mediaalireunassa. Polyyppi aiheuttaa jatkuvan äänen karheuden ja vuotoisuuden, koska äänirako ei pääse sulkeutumaan normaalisti.
 
 Käytännössä aina hoidetaan kirurgisella poistolla
 
@@ -1060,7 +1062,7 @@ Kun poskiontelo on ilmapitoinen ja limakalvoltaan normaali, ultraääni heijastu
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      a
 
 Kirkas, oljenkeltainen neste on tyypillistä poskiontelon retentiokystalle, joka on hyvänlaatuinen limakalvon liman retentiosta johtuva muutos. Kystat ovat yleensä oireettomia ja todetaan sattumalta, mutta voivat aiheuttaa poskiontelon paineoireita ja kipua. Eivät yleensä aiheuta infektiota tai märkäistä eritettä. 
 
@@ -1408,7 +1410,7 @@ a: Pitkäkestoinen ja ajoittainen oire voi olla funktionaalinen, mutta ei nyt su
 
 b: Ruokatorven perforaatio ja epiglottiitti ovat äkillisiä, rajuoireisia ja usein henkeä uhkaavia -> eivät aiheuta "ajoittaisia" nielemisvaikeuksia. 
 
-c: Palan tunne (globus) ei todellakaan aina vaadi MRI:tä ja on usein funktionaalinen 
+d: Palan tunne (globus) ei todellakaan aina vaadi MRI:tä ja on usein funktionaalinen 
   </div>
 </div>
 
@@ -1434,7 +1436,7 @@ a: Hypothalamus ei ole kasvohermon motorisen säätelyn pääasiallinen rakenne
 
 b: Tumaketason vaurio aiheuttaa perifeerisen kasvohermohalvauksen
 
-c: Ganglion geniculi kuuluu perifeeriseen kasvohermoon ja sijaitsee canalis nervi facialiksessa temporaaliluussa. Vesirokkoviruksen (VZV) reaktivaatio ganglion geniculin alueelta aiheuttaa (Tyypin 2) Ramsay Huntin oireyhtymän, jolle on perifeerisen kasvohalvauksen lisäksi herpesrakkuloita, yleisimmin korvassa.
+d: Ganglion geniculi kuuluu perifeeriseen kasvohermoon ja sijaitsee canalis nervi facialiksessa temporaaliluussa. Vesirokkoviruksen (VZV) reaktivaatio ganglion geniculin alueelta aiheuttaa (Tyypin 2) Ramsay Huntin oireyhtymän, jolle on perifeerisen kasvohalvauksen lisäksi herpesrakkuloita, yleisimmin korvassa.
 
 ![](images/sentraalinenvsperifeerinen.png)
   </div>
@@ -1572,7 +1574,7 @@ Huulisyöpien ja kurkunpään syöpien ilmaantuvuus on taas vähentynyt viime vu
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      d
 
 Kasvohermohalvauksen hoito kuuluu aina erikoissairaanhoitoon, jos sen taustalla epäillään olevan otiitti. Lasten facialispareesit tulee muutenkin lähettää aina KNK- tai lastentautien yksikköön (jotkut aikuisten facialispareesit voi hoitaa ainakin aluksi PTH:ssa, jos on suhteellisen varma, että kyseessä on Bellin pareesi). 
   </div>
@@ -1807,7 +1809,7 @@ a: Korvakäytävän takaseinää hermottaa kyllä osittain kasvohermon sensorine
 
 b: N. auricularis magnus (C2,3 eli kaulapunoksen haara) hermottaa suurimman osan korvalehdestä
 
-c: Ei osallistu korvan tuntohermotukseen, vaikka osallistuukin nielun ja kitalaen tuntoon sekä nielemis- ja kakomisrefleksiin
+d: Ei osallistu korvan tuntohermotukseen, vaikka osallistuukin nielun ja kitalaen tuntoon sekä nielemis- ja kakomisrefleksiin
 
 ![](images/ulkokorvahermot.png)
   </div>
@@ -2056,7 +2058,7 @@ d: Orbitaselluliitti voi aiheuttaa absessin orbitaan
 
 Adenovirus on yleisin nielutulehduksen aiheuttaja alle 5-vuotiailla. Sille on myös tyypillistä ripuli ja konjunktiviitti, kuten nyt myös potilaallamme. 
 
-b: A-ryhmän streptokokki on yleisin bakteeri, joka aiheuttaa nielutulehdusta, mutta se on harvinainen pienillä lapsilla. 
+a: A-ryhmän streptokokki on yleisin bakteeri, joka aiheuttaa nielutulehdusta, mutta se on harvinainen pienillä lapsilla. 
 
 c: Voisi aiheuttaa, mutta adenovirus on yleisempi tämänlaisen taudinkuvan aiheuttaja 
 
@@ -2303,7 +2305,7 @@ Viittaa alanielun alueen tuumoriin.
 
 b: Viittaa eniten refluksiin
 
-c: Yleistä, ei suoraan viittaa tuumoriin 
+c: Yleistä, ei suoraan viittaa tuumoriin. Yleensä taustalla on lihasten supistuminen nielaistessa. 
 
 d: Viittaa neurologiseen ongelmaan 
   </div>
@@ -2421,7 +2423,7 @@ c: Sieni-infektioissa voi myös riittää vain huolellinen puhdistus ja esim. bo
   <div class="solution-content">
       c
 
-Kuvassa näkyy oikealla siisti alakuorikko ja sen päällä siisti kiiltävä keskikuorikko. Vasemmalla septum näyttää siistiltä. 
+Kuvassa näkyy oikealla siisti alakuorikko ja sen päällä siisti kiiltävä keskikuorikko. Vasemmalla septum näyttää siistiltä. Limakalvot ovat jokseenkin kuiva -> hoitokokeilu kostuttavilla suihkeilla.
 
 Nenän vaihteleva tukkoisuus voi viitata nenäsykliin, jossa nenäkäytävät hengittävät vuorotellen (turpeus vaihtelee), n. 1–4 t:n sykleissä, jolloin tukkoisemman puolen limakalvo toipuu ilmavirran aiheuttamasta rasituksesta. 
 
@@ -2612,7 +2614,7 @@ d: Lähete voi olla tarpeen, jos on syöpäepäily ja silloin se olisi 1-7vrk (t
 
 a: Viittaa normaaliin välikorvaan, jossa ei ole eritettä
 
-d: Viittaa korvatorven vajaatoimintaan ja alipaineiseen välikorvaan 
+c: Viittaa korvatorven vajaatoimintaan ja alipaineiseen välikorvaan 
 
 d: Pelkkä erite ei kerro akuutista otiitista, varsinkaan jos se on kirkasta eikä märkäistä
 
@@ -2981,7 +2983,7 @@ c: Lähete fysiatrialle ei ole asianmukainen ennen kuin nykyinen vaiva arvioidaa
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      a
 
 Krooninen hajuaistihäiriö (anosmia tai hyposmia) aikuisella johtuu useimmiten aiemmin olleesta virusinfektiosta. Taustalla on usein virusperäinen nenän limakalvovaurio. Usein potilas kertoo hajuaistin heikentyneen akuutin flunssan tai influenssan jälkeen. Alenema voi parantua hiljalleen itsestään; harvoin se voi myös jäädä todellakin pitkäaikaiseksi ja pysyväksi. 
 
@@ -3097,7 +3099,9 @@ a, b, d: Alempien hengitysteiden ahtaumat useimmiten aiheuttavat uloshengityksen
   <div class="solution-content">
       b
 
-Syövät voivat kompressoida n. recurrens-hermoja -> äänihuulihalvaus. Samoin leikkauksissa hermot voivat vaurioitua. Välillä syy on myös tuntematon. 
+Syövät voivat kompressoida n. recurrens-hermoja -> äänihuulihalvaus. Samoin leikkauksissa hermot voivat vaurioitua. Välillä syy trauma ja välillä se on myös tuntematon. Noin 20—30 % äänihuulihalvauksista jää taustaltaan tuntemattomaksi. Tällöin puhutaan idiopaattisesta halvauksesta. On viitteitä, että ainakin osa näistä, kuten muistakin yksittäisistä aivohermohalvauksista, on virustulehduksen aiheuttamia. Pieni osa halvauksista johtuu erilaisista ääreis- ja keskushermoston sairauksista, kuten sarkoidoosista, kollageenisairauksista jne. 
+
+Kun recurrenshalvaus on todettu, eikä etiologia ole selvä, on tutkittava ainakin KNK-statuksen lisäksi aivohermostatus ja kaulan palpointi sekä varjoainetehosteinen TT. Äänihuulihalvauksen syyn selvittäminen kuuluu erikoislääkärille. TT otetaan kallonpohjasta alkaen ulottuen vas. puoleisessa pareesissa rintakehän alueelle saakka ja oik. puoleisessa riittää solisluutasolle asti. Vasemmalla n. recurrens kiertää aortankaaren -> rintakehän sisäiset tuumorit ja prosessit voivat aiheuttaa paresin. Oikealla taas kiertää subclavian -> ei tarvitse kuvata niin alhaalta. 
   </div>
 </div>
 
@@ -3113,11 +3117,9 @@ Syövät voivat kompressoida n. recurrens-hermoja -> äänihuulihalvaus. Samoin 
     Vastaus
   </button>
   <div class="solution-content">
-      b
-
-Syövät voivat kompressoida n. recurrens-hermoja -> äänihuulihalvaus. Samoin leikkauksissa hermot voivat vaurioitua. Välillä syy trauma ja välillä se on myös tuntematon. Noin 20—30 % äänihuulihalvauksista jää taustaltaan tuntemattomaksi. Tällöin puhutaan idiopaattisesta halvauksesta. On viitteitä, että ainakin osa näistä, kuten muistakin yksittäisistä aivohermohalvauksista, on virustulehduksen aiheuttamia. Pieni osa halvauksista johtuu erilaisista ääreis- ja keskushermoston sairauksista, kuten sarkoidoosista, kollageenisairauksista jne. 
-
-Kun recurrenshalvaus on todettu, eikä etiologia ole selvä, on tutkittava ainakin KNK-statuksen lisäksi aivohermostatus ja kaulan palpointi sekä varjoainetehosteinen TT. Äänihuulihalvauksen syyn selvittäminen kuuluu erikoislääkärille. TT otetaan kallonpohjasta alkaen ulottuen vas. puoleisessa pareesissa rintakehän alueelle saakka ja oik. puoleisessa riittää solisluutasolle asti. Vasemmalla n. recurrens kiertää aortankaaren -> rintakehän sisäiset tuumorit ja prosessit voivat aiheuttaa paresin. Oikealla taas kiertää subclavian -> ei tarvitse kuvata niin alhaalta. 
+      a
+      
+Presbyfonia eli ikäkäheys.
   </div>
 </div>
 

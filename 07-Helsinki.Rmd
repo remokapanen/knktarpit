@@ -13,7 +13,7 @@ Vuodesta 2022 eteenpäin tentit ovat monivalintatenttejä, sitä ennen enemmän 
 - a. Korvan takaa iho on punoittava ja aristava, korvalehti on hieman kääntynyt ulospäin ja tulehdusarvot ovat kohonneet
 - b. Tärykalvo näyttää terveeltä, mutta korvakäytävässä, korvalehdessä ja korvan takana on turvotusta
 - c. Potilaalla on korvatulehdus ja kaulan imusolmukkeet ovat sillä puolella kipeät ja suurentuneet
-- d. Tärykalvo on puhjennut ja vuotaa märkää oikein?
+- d. Tärykalvo on puhjennut ja vuotaa märkää 
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -534,7 +534,7 @@ d: Ei ole selkeä binauraalikuulemisen etu
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      d
 
 Yli 40-vuotiaiden kystisiä kaulakyhmyjä tulee pitää pahanlaatuisena, kunnes toisin on osoitettu. Kaulan magneettikuvausta (tai TT) tarvitaan jatkotutkimuksena, mikäli kystisen muutoksen diagnoosi jää epävarmaksi tai potilas on yli 40-vuotias. Yli 40-vuotiailla poisto vaatii tarkkaa suunnittelua. Leikkaushoito tavanomaiseen tapaan voi heikentää potilaan ennustetta, mikäli kyseessä onkin pahanlaatuinen tauti, koska avoimesta kirurgisesta poistosta voi aiheutua syöpäsolukylvöä kaulalle ja taudin suurentunut uusiutumisriski
   </div>
@@ -1305,7 +1305,7 @@ Jos pään asennot muuttavat kaikua, niin ontelo ei voi olla täynnä nestettä,
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      a
 
 Totta, uniapnea tyypillisesti on etenevä sairaus hoitamattomana.
 
