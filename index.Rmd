@@ -8,7 +8,6 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: 
-  set in the _output.yml file.
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
