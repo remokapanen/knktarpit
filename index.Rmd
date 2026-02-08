@@ -18,6 +18,10 @@ Vuodesta 2021 lähtien on ollut pääosin monivalintapohjaisia tenttejä ja sit�
 
 Kokoelma kannattaa käydä järjestyksessä läpi, koska loppuosissa en ehkä ole avannut asioita yhtä paljon kuin alkuvaiheessa.  
 
+## Alkukuulustelu 
+
+Alkukuulustelun tärpit löytyy omasta paketistaan: https://knkalkukuulustelutarpit.netlify.app/
+
 ## Valtakunnallinen kysymyspankki
 
 Wikistä löytyy tärppejä Kuopion & Oulun lääkiksistä. Olen napannut ainakin monivalinnat näistä omaksi kappaleekseen tähän kokoelmaan. Niiden lisäksi on myös avoimempia kysymyksiä. 
