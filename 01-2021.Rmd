@@ -482,7 +482,7 @@ Kasvainta epäiltäessä ja oireiden vähänkin pitkittyessä (= yli 2 viikkoa) 
     Vastaus
   </button>
   <div class="solution-content">
-      b
+      a
 
 Trakeostomia tarkoittaa siis henkitorviavannetta. Suoritetaan avaamalla henkitorvi (trakeatomia) ja asettamalla trakeakanyyli. Trakeotomian jälkihoidossa sekä henkitorviavanne että trakeakanyyli vaativat päivittäistä hoitoa. Erityisesti on huolehdittava hengitysilman kostuttamisesta. Iho trakeotomian ympärillä puhdistetaan päivittäin. Trakeotoomatoimenpiteen jälkeen kanyylin kuffi tyhjennetään ensimmäisenä päivänä, ja kun potilaan vointi sallii, vaihdetaan kuffiton kanyyli. Yleensä odotetaan muutama päivä ennen ensimmäistä kanyylin vaihtoa.
 

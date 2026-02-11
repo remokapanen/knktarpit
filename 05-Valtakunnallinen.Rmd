@@ -202,9 +202,7 @@ d: Laryngiitti aiheuttaa kurkkukipua ja käheyttä, ei tyypillisesti yksipuolist
 
 Kuffillista (ilmakalvosimella varustettua) kanyylia käytetään trakeostooman teon jälkeen ensimmäisten päivien ajan ja silloin, kun respiraattorihoito tai aspiraatio-ongelma sitä vaatii. Muuten käytetään kuffitonta kanyylia. Kanyyli pyritään vaihtamaan kuffittomaan mahdollisimman pian, sillä se mahdollistaa potilaan puhumisen, vähentää ylähengitystieinfektioita ja helpottaa potilaan nielemistä sekä nopeuttaa vieroittautumista trakeostoomasta. Lisäksi kuffin aiheuttama paine henkitorven seinämään altistaa komplikaatioiden kehittymiselle, eikä kuffin ole todettu vähentävän potilaan aspiraatiota. 
 
-Monissa ohjeissa sanotaan, että sisäkanyyli kannattaa heti poistaa ja imutella vasta sen poistamisen jälkeen. Kohdassa D kuitenkin puhutaan "kanyylin" poistosta eikä sisäkanyylistä. Koko kanyylin poisto tehdään vasta jos imeminen ei avaa tukosta. Joissain mallivastauksissa D on kyllä oikea. 
-
-Kanyylin tukkeutuminen vaatii usein välittömiä toimenpiteitä. Tukkeutumisen voi aiheuttaa muun muassa kuivunut lima tai hyytynyt veri. Tukos saadaan usein imulla poistettua.
+Kanyylin tukkeutuminen vaatii usein välittömiä toimenpiteitä. Tukkeutumisen voi aiheuttaa muun muassa kuivunut lima tai hyytynyt veri. Tukos saadaan usein imulla poistettua. Monissa ohjeissa sanotaan, että sisäkanyyli kannattaa heti poistaa ja imutella vasta sen poistamisen jälkeen. Kohdassa D kuitenkin puhutaan "kanyylin" poistosta eikä sisäkanyylistä. Koko kanyylin poisto tehdään vasta jos imeminen ei avaa tukosta. Joissain mallivastauksissa D on kyllä oikea. 
 
 a: Voi imeä ilman kostutusta  
 
