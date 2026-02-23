@@ -196,7 +196,7 @@ a: Nielemisen sujuvuutta ja aspiraatioriskiä voidaan selvittää puheterapeutin
 
 b: Voivat kyllä aiheuttaa nielemisoireita, mutta eivät yleensä regurgitaatiota ja anamneesin perusteella syöpä/divertikkeli on todennäköisempi
 
-d: Vaikka Zenkerin divertikkeli (umpipussi ruokatorven yläsulkijan alueella, jonne nielty ruoka voi kerääntyä siihen ja nousta takaisin nieluun) voi aiheuttaa regurgitaatiota ja saman oirekuvan kuin potilaalla, potilaan riskiprofiili ohjaa ajatuksia vahvasti can't miss -diagnoosiin eli syöpään ja sen poissulkeminen on pakollista. Divertikkelin diagnostiikassa ensisijaisia tutkimuksia on kylläkin ruokatorven videofluorografia ja se yleensä kannattaisi tehdä ennen tähystyksiä, koska ilman sen poissulkua tähystysputki voi kulkea divertikkeliin ja perforoida sen. Kuitenkin jos divertikkelin mahdollisuus pidetään mielessä, niin gastroskopia kyllä voidaan tehdä mahdollisen divertikkelin kanssakin. 
+d: Vaikka Zenkerin divertikkeli (umpipussi ruokatorven yläsulkijan alueella, jonne nielty ruoka voi kerääntyä siihen ja nousta takaisin nieluun) voi aiheuttaa regurgitaatiota ja saman oirekuvan kuin potilaalla, potilaan riskiprofiili ohjaa ajatuksia vahvasti can't miss -diagnoosiin eli syöpään ja sen poissulkeminen on pakollista. Divertikkelin diagnostiikassa ensisijaisia tutkimuksia on kylläkin ruokatorven barium swallow. Joissakin lähteissä mainitaan, että jos ruokatorven tähystyksen tekee ilman Zenkerin divertikkelin poissulkua edeltävästi, niin on riski divertikkelin perforaatiolle. Käytännössä tätä riskiä ei kuitenkaan tarvitse huomioida, vaan skopioija kyllä osaa huomata divertikkelin (jos sellainen on) ja osaa välttää sen rikkomista.
   </div>
 </div>
 

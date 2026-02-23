@@ -2,7 +2,7 @@
 
 Tässä vuoden 2023 blokin 2 tentti, edellisessä kappaleessa tentti 1. Tenttejä nro 3-4 ei ole wikissä. 
 
-Vahoista tenteistä samoja kysymyksiä oli 3, jonka takia kysymyksiä on nyt tähän laitettu 47 eikä 50. 
+Vanhoista tenteistä samoja kysymyksiä oli 3, jonka takia kysymyksiä on nyt tähän laitettu 47 eikä 50. 
 
 ## Aktiivisesti vuotavan nenäverenvuotopotilaan hoidossa tyypillinen, erittäin hyödyllinen valmisteleva toimi on
 
@@ -24,7 +24,7 @@ b: Nenäverenvuodon ensiapuohjeet annetaan usein puhelimitse. Potilasta pyydetä
 
 c: Hajuaisitin testaaminen ei liity akuutin verenvuodon hallintaan
 
-d: Jäätä voi kyllä sinänsä käyttää, mutta sitä ei imeskellä, vaan kylmäpussi niskan alueella voi auttaa vuodon vähentämisessä. 
+d: Jäätä voi kyllä sinänsä käyttää, mutta ei ole adrenaliinia tärkeämpää. Kylmäpussi niskan alueella ja jääpala suussa voivat auttaa vuodon tyrehtymisessä ja ovat hyviä kotihoito-ohjeita.
   </div>
 </div>
 
@@ -305,7 +305,7 @@ a: Globus-oire ei aiheuta todellista löydöstä, vaan on toiminnallinen tuntemu
 
 b: Linguaalinen tonsillihyperplasia ilmenee yleensä laajempana, epätasaisena ja nodulaarisena massana, ei yksittäisenä sileänä kystana
 
-c: Epidermoidikarsinooma kielen tyvessä on kyllä mahdollinen, ja voi harvoin esiintyä sileänä, mutta tyypillisesti on epätasainen, infiltraatiivinen, haavautunut tai verenvuotoinen massa. 
+c: Epidermoidikarsinooma kielen tyvessä on kyllä mahdollinen, ja voi harvoin esiintyä sileänä, mutta tyypillisesti on epätasainen, infiltratiivinen, haavautunut tai verenvuotoinen massa. 
 
 ![](images/mucocele.png)
 ![](images/ranula.png)
@@ -767,7 +767,7 @@ d: Endolymfan paineen vaihtelu on Menieren taudin oletettu etiologia, mutta se o
 
 ## Aikaisemmasta tentistä tutun kaverin diagnoosi (viimeksi hoito) 
 
-37-vuotiaalla perusterve mies, jol!a ei allergioita, tulee vastaanotolle jo noin 10 päivää jatkuneen flunssaoireiston vuoksi. Nenä on tukossa ja räkä on muuttunut paksummaksi ja vihertäväksi. Lisäksi on kevyttä painon tunnetta poskissa ja hakkaavaa yskää. Ei kuumetta. Tutkimuksessa et totea eritettä nielussa tai nenän keskikäytävien suunnalla. Poskionteloiden uä-tutkimuksessa toteat molemmin puolin kaiun 1,5cm etäisyydellä. Mikä seuraavista on todennäköisin diagnoosi?
+37-vuotiaalla perusterve mies, jolla ei allergioita, tulee vastaanotolle jo noin 10 päivää jatkuneen flunssaoireiston vuoksi. Nenä on tukossa ja räkä on muuttunut paksummaksi ja vihertäväksi. Lisäksi on kevyttä painon tunnetta poskissa ja hakkaavaa yskää. Ei kuumetta. Tutkimuksessa et totea eritettä nielussa tai nenän keskikäytävien suunnalla. Poskionteloiden uä-tutkimuksessa toteat molemmin puolin kaiun 1,5cm etäisyydellä. Mikä seuraavista on todennäköisin diagnoosi?
 
 a. AERD
 b. Vasomotorinen nuha
@@ -926,6 +926,7 @@ Perustellun ammattinuhaepäilyn tutkimuskulut korvataan työnantajan lakisääte
 Ammatillista kuntoutusta korvataan, jos työ- tai toimintakyky tai ansiomahdollisuudet ovat ammattitaudin vuoksi heikentyneet tai jos on todennäköistä, että ne voivat ammattitaudin vuoksi myöhemmin olennaisesti heikentyä. Kuntoutusta puoltaa ammattialalla yleisen altisteen aiheuttama allerginen ammattinuha, koska tuolloin riittävä välttäminen ei ole realistista tai mielekästä. Lisäksi huomioidaan mahdollinen laaja-alainen herkistyminen muille työn altisteille (esim. vehnäjauhonuhassa herkistyminen muille jauhoille) ja mahdollinen astma nuhan ohella. Mikäli työtapaturma- ja ammattitautivakuutus ei korvaa ammatillista kuntoutusta, se saattaa olla mahdollista työeläkekuntoutuksena.
 
 ![](images/ammattinuha.png)
+
 a: Lausuntojen tekijän ei tarvitse olla työterveyslääkäri eikä niitä tehdä pelkästään diagnoosin varmistuttua. 
 
 b: Lääkehoito on toissijaista altistumisen vähentämisen rinnalla ja tärkeintä on lopettaa altistus esimerkiksi työnkuvan muutoksin tai ainakin vähentää sitä. 
