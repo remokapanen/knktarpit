@@ -149,3 +149,363 @@ c: Peilitutkimus ei näe ruokatorveen ja oireet voivat jatkua, vaikka vierasesin
 d: Terävä vierasesine + oireet = päivystysendoskopia. Tämä on sekä diagnostinen että hoitava toimenpide.
   </div>
 </div>
+
+## Potilaasi on 78-vuotias nainen, jolla on vasemmalle nenänsiivekkeeseen tullut rupeutuva ja vallireunainen ihomuutos kesän aikana. Muutoksen koko on 8 mm. Miten toimit?
+
+- a. Kirjoitat kortisonivoiteesta (hydrocortison 1 %) reseptin ja pyydät kontrolliin kuukauden kuluttua.
+- b. Otat muutoksesta stanssibiopsian ja lähetät potilaasi saman tien (R1) erikoissairaanhoitoon.
+- c. Otat muutoksesta valokuvan, stanssibiopsian ja pyydät PAD-vastauksen kiireellisenä, koska epäilet basalioomaa. Jos kyseessä on PAD- vastauksen perusteella basaliooma, lähetät potilaasi erikoissairaanhoitoon R2-kiireellisyydellä.
+- d. Otat muutoksesta valokuvan ja lähetät potilaan kiireettömänä (R3) erikoissairaanhoitoon.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, V, O, V
+
+Ihomuutosten tapauksessa yleensä c on oikea toimintamalli. Dokumentoidaan muutos, otetaan siitä PAD joko stanssilla tai veneviillosta. Vasta PAD-tulosten jälkeen yleensä päätetään, miten jatkohoidon kanssa toimitaan. 
+
+a: Epäily maligniteetista → tulee ottaa näyte
+
+b: Basalioomaepäilyn kanssa voi odottaa kyllä PAD-vastausta, ei ole niin kiirettä ESH-lähetteen kanssa. Monet basalioomat voi myös hoitaa itse PTH:ssa, kunhan vain varmistaa marginaalin toteutumisen. 
+
+d: Muutoksista otetaan aina mahdollisuuksien mukaan näyte ennen ESH-lähetettä. 
+  </div>
+</div>
+
+## Äiti tuo 4-vuotiaan tyttärensä vastaanotolle. Lapsi oli leikkinyt kolikoilla. Nyt lapsi ei suostu syömään eikä juomaan. Lapsen hengitys on rauhallista. Mitä teet?
+
+- a. Epäilet hengitysteiden vierasesinettä. Teet KNK-statuksen ja suosittelet seuraamaan tilannetta kotona.
+- b. Epäilet ruokatorven yläahtauman vierasesinettä. Lähetät lapsen päivystyksenä KNK- lääkärille ruokatorven tähystystä varten.
+- c. Teet KNK- statuksen peilauksineen, koska kolikon pitäisi näkyä hyvin epäsuorassa laryngoskopiassa.
+- d. Teet epäsuoran laryngoskopian, koska ruokatorven yläahtauma näkyy epäsuorassa laryngoskopiassa ja vierasesineen saa sieltä helposti pois.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, O, V, V
+
+a: Hengitys rauhallista, mutta syöminen/juominen ei onnistu -> viittaa vahvasti siihen, että vierasesine on ruokatorvessa, ei hengitysteissä
+
+c: Kolikko ruokatorvessa ei yleensä näy epäsuorassa laryngoskopiassa
+
+d: Ruokatorven yläahtauma ei ole näkyvissä eikä siten myöskään poistettavissa helposti vastaanotolla
+  </div>
+</div>
+
+## Väittämiä nuhasta 
+
+- a. Jos epäilet potilaallasi allergista nuhaa, ei ihotesti (Prick-testi) ole välttämätön taudin diagnosoimiseksi. Usein allergisen nuhan aiheuttaja paljastuu anamneesin perusteella.
+- b. Nenästeroidia ei saa käyttää pitkiä aikoja yhtäjaksoisesti, koska se ohentaa liikaa nenän limakalvoja.
+- c. Tarkan anamneesin ja hyvän statuksen perusteella voi avohoidossa aloittaa nenästeroidihoitokokeilun oletettuun koivuallergiaan.
+- d. Allerginen nuha on yleisin ikäihmisillä ja nenästeroidia kannattaa aina kokeilla ensisijaisena lääkkeenä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, V, O, V
+
+a: Allergisen nuhan aiheuttajat selviävät usein haastattelemalla. Spesifin IgE:n määritys tai ihopistokokeet tuovat diagnoosiin varmuutta, mutta ne eivät selkeässä tilanteessa ole aina pakollisia. 
+
+b: Nenästeroideja kyllä käytetään tyypillisesti pitkiäkin aikoja. Modernit nenän kortikosteroidit eivät merkittävästi ohenna limakalvoja eivätkä aiheuta systeemisiä kortisonihaittoja normaalikäytössä. Ne voivat kyllä aiheuttaa kuivuutta, mutta sen takia samalla yleensä suositellaan nenäkannulla huuhtelua lisäksi kosteuttamaan limakalvoja. 
+
+c: Esimerkiksi tyypillinen keväinen oireilu → voidaan aloittaa hoitokokeilu ilman testejä. 
+
+d: Allerginen nuha on yleisintä lapsilla ja nuorilla. Ikäihmisillä nuha on useammin ei-allerginen (erityisesti vasomotorinen tai atrofinen). 
+  </div>
+</div>
+
+## Väittämiä rinosinuiitista
+
+- a. Rinosinuiitissa mukosiliaaritoiminta heikkenee virusinfektion vuoksi. Se voi johtaa eriteretention kertymiseen poskionteloon.
+- b. Aikuisella toispuoleinen märkäinen nuha ja ajoittainen nenäverenvuoto herättävät aina epäilyn nenäkäytävän vierasesineestä.
+- c. Jos potilaalla on käytössä nenästeroidi, se pitää lopettaa ylähengitysteiden virusinfektion yhteydessä.
+- d. Leikki-ikäisillä lapsilla bakteerien aiheuttama poskiontelotulehdus ja välikorvatulehdus ovat yhtä yleisiä virusinfektion jälkitauteina
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, V, V, V
+
+a: Viruinfektio häiritsee mukoosasolujen värekarvatoimintaa ja siten voi johtaa eritteiden ja mikrobien kertymiselle poskionteloon. Tämä voikin johtaa virustaudin jälkeen akuuttiin bakterielliin rinosinuiittiin. 
+
+b: Lapsella tämä herättäisi vierasesine-epäilyn, aikuisilla vierasesineet ovat harvinaisempia ja he yleensä osaavat kertoa onko nenään tungettu jotain. Aikuisilla tämä oirekuva voisi herättää epäilyn tuumorista. 
+
+c: Nenästeroidia ei tarvitse lopettaa flunssan aikana ja se voi jopa helpottaa oireita. 
+
+d: Leikki-ikäisillä välikorvatulehdus on erittäin yleinen jälkitauti ja bakteeriperäinen sinuiitti on selvästi harvinaisempi. 
+  </div>
+</div>
+
+## Sinuiiteista väittämiä
+
+- a. Jos potilaalle on tehty poskionteloiden avarrusleikkaus (FES, infundibulotomia), poskiontelot voidaan huuhdella alakäytäväaukkojen kautta.
+- b. Tavallinen aiheuttajabakteeri kroonisessa sinuiitissa voi olla Stafylococcus aureus.
+- c. Lapsilla seulalokeroston tulehdus voi levitä orbitaan ja aiheuttaa orbitaselluliitin. Se voidaan hoitaa peroraalisella antibiootilla avohoidossa.
+- d. Jos potilaalle on tehty infundibulotomiat ja epäilet sinuiittia, kannattaa poskiontelot ensisijaisesti huuhdella. Se on usein riittävä hoito, ellei lavaatiossa tule märkäistä eritettä.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, O, V, O
+
+a: FESS-leikkauksessa (Functional Endoscopic Sinus Surgery) avarretaan luonnollista ostiumia keskikäytävään, ei alakäytävään 
+
+b: Totta. Akuutissa bakteriellissa sinuiitissa yleisimmät aiheuttajabakteerit ovat Haemophilus influenzae, Streptococcus pneumoniae, Moraxella catarrhalis ja Staphylococcus aureus. S. aureus on yleisin kroonisessa muodossa.
+
+c: Orbitaselluliitti on päivystyksellinen tila ja vaatii iv-antibiootin. Preseptaaliselluliitti taas voitaisiin hoitaa p.o.-lääkityksellä yleensä.
+
+d: Totta. Jos rinosinuiittipotilaalle on tehty poskionteloleikkaus tähystimen avustuksella (ESS, FESS, infundibulotomia, keskikäytäväantrostomia), voidaan poskiontelo huuhdella lavaatiossa punktion sijaan. Tämä voi usein riittää.  
+  </div>
+</div>
+
+## Allergisesta nuhasta kärsivä potilas on tavallinen yleislääkärin vastaanotolla. Mitkä seuraavista väittämistä pitävät paikkansa ja mitkä ovat väärin?
+
+- a. Allerginen nuha on yleisin ikäihmisillä ja nenästeroidia kannattaa aina kokeilla ensisijaisena lääkkeenä.
+- b. Nenästeroidia tulee käyttää siitepölykauden ajan yhtäjaksoisesti, vaikka se voi aiheuttaa lievää nenäverenvuotoa limakalvojen kuivumisesta johtuen.
+- c. Siedätyshoidon vasta-aihe on hoitamaton tai huonossa hoitotasapainossa oleva astma.
+- d. Huolellisen anamneesin ja hyvän statuksen perusteella voi avohoidossa aloittaa nenästeroidihoitokokeilun siitepölyallergiaan
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, O, O, O
+
+a: Allerginen nuha on yleisintä lapsilla ja nuorilla. Ikäihmisillä nuha on useammin ei-allerginen (erityisesti vasomotorinen tai atrofinen). 
+
+b: Nenän kortikosteroidit ovat ensisijainen hoito allergisessa nuhassa. Ne tehoavat parhaiten säännöllisessä käytössä koko altistuskauden ajan, yleensä jo ennen kautta aloitettuna. Lievä nenäverenvuoto on tavallinen haitta, mutta ei yleensä estä hoidon jatkamista. Kuivumista estämään suositellaan kosteutusta esim. suolavesihuuhteluilla. 
+
+c: Astma ei ole suoraan este siedätyshoidolle, mutta se tulee hoitaa tasapainoon ennen siedätyshoitoa. 
+
+d: Allergisen nuhan diagnoosi on ensisijaisesti kliininen, vaikka sen tukena voikin käyttää spesifiä IgE:n määritystä tai ihopistokokeita. 
+  </div>
+</div>
+
+## Potilaasi on 65-vuotias mies, jolla korva on kipeytynyt kylpyläloman jälkeen. Nyt korvasta vuotaa märkäistä eritettä.
+
+- a. Siprofloksasiini-hydrokortisoni- korvatipat tehoavat hyvin eksterniin otiittiin.
+- b. Kyseessä on korvakäytävätulehdus. Sen harvinainen aiheuttaja voi olla Pseudomonas aeruginosa.
+- c. Välikorvatulehduksen on aiheuttanut todennäköisesti streptokokki tai hemofilus. Hoidoksi sopii amoksisilliini-klavulaanihappo.
+- d. NaCl-huuhtelu ja imukuivaus riittävät hoidoksi. Kontrolleja ei tarvita.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, V, V, V
+
+a: Akuutin korvakäytävätulehduksen (AOE) hoidossa puhdistuksen jälkeen potilaalle annetaan kotiin korvatippavalmiste, joka voi lievässä tapauksessa olla vain antiseptinen (boorihappo+sprii) tai vaikeammassa tulehduksessa mikrobilääke+glukokortikoidi (esim. juuri siprofloksasiini+hydrokortisoni; tehoaa sekä gram-negatiivisiin että -positiivisiin taudinaiheuttajiin). 
+
+b: Korvakäytävätulehduksen (niin akuutin kuin kroonisenkin) yksi yleisistä aiheuttajista on korvaan päässyt vesi (swimmer's ear). Potilaalla todennäköisesti on tämä ja se johtuu yleensä (ei siis harvinaisesti) Pseudomonas aeruginosasta, joka sattuu olemaan yleisin yksittäinen akuutin otitis externan aiheuttaja; toinen yleinen aiheuttaja on S. aureus (ei niin vahvasti yhteydessä uimiseen). 
+
+c: Kliininen kuva viittaa ulkokorvatulehdukseen, ei välikorvatulehdukseen. Systeeminen antibiootti ei ole ensisijainen hoito tavallisessa otitis externassa.
+
+d: Tärkein akuutin korvakäytävän tulehduksen (AOE) hoito on kyllä NaCl-huuhtelu ja korvakäytävän puhdistus, mutta tämän lisäksi yleensä annetaan korvatippoja. Korvakäytävä on kuitenkin saatava puhtaaksi eritteestä, muuten korvatipoista ei ole hyötyä.
+  </div>
+</div>
+
+## Krooninen nuha voi johtua useasta eri syystä. Mitkä väittämät pitävät paikkansa ja mitkä ovat väärin?
+
+- a. Atrofisessa nuhassa limakalvojen turpeudesta johtuen nenä on ahdas ja tuntuu tukkoiselta.
+- b. Aikuisella toispuoleinen tukkoisuus ja toistuva nenäverenvuoto voivat olla merkki nenäkäytävän tuumorista.
+- c. Joskus kuivat, karstaiset ja ärtyneet nenän limakalvot voivat olla merkki systeemitaudista kuten granulomatoottisesta polyangiitista (GPA).
+- d. Atrofinen nuha on tavallisin ikäihmisillä ja se hoidetaan aina nenästeroidilla.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, O, O, V
+
+a: Atrofisessa nuhassa limakalvo on ohentunut ja kuiva eikä nenä ole sinänsä ahdas, vaikka se on tukossa. Tukkoisuuden tunne johtuu siitä, kun atrofisessa nenäontelossa staattinen lima karstoittuu. Taustalla ei siis ole sinänsä limakalvojen turpeus, pikemminkin niiden ohentuminen. 
+
+b: Yksipuolinen tukkoisuus + verenvuoto aikuisella on aina hälyttävä löydös tuumorin suhteen. Nenäontelon kasvaimet ovat yleisesti ottaen harvinaisia, mutta toispuoleisessa tukkoisuudessa ja toistuvissa verenvuodoissa tulee muistaa epäillä. Lapsella tämä herättäisi pääasiassa epäilyn vierasesineestä. Nenäontelon kasvaimet ovat yleisesti ottaen harvinaisia
+
+c: GPA voi aiheuttaa nenän alueen vaskuliittia -> krooninen karstainen nuha, verenvuodot ja jopa septumperforaatio. 
+
+d: Atrofinen nuha esiintyy tyypillisesti ikäihmisillä, mutta sen hoito ei ole nenästeroidi (kuivattaisi limakalvoja entisestään). Ensisijainen hoito on limakalvojen kosteutus (suihkeet, nenähuuhtelut, sierainaukkojen rasvaus, höyryhengitys...). 
+  </div>
+</div>
+
+## Arvioi, mitkä väittämät sinuiittia koskien ovat oikein ja mitkä väärin.
+
+- a. Arviolta 10 % tavallisista virusflunssista etenee bakterielliksi sinuiitiksi.
+- b. Leikki-ikäisillä lapsilla bakteerien aiheuttama poskiontelotulehdus ja välikorvatulehdus ovat yhtä yleisiä virusinfektion jälkitauteina.
+- c. Allergikon on hyvä aloittaa nenästeroidi heti virusflunssan alussa, koska se voi ehkäistä taudin pitkittymistä ja sinuiitin kehittymistä.
+- d. Rinosinuiitissa mukosiliaaritoiminta vilkastuu virusinfektion vuoksi
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, V, O, V
+
+a: Bakterielli rinosinuiitti komplisoi n. 0.5-2% virusinfektioita. 
+
+b: Välikorvatulehdus on lapsilla erittäin yleinen jälkitauti ja bakteerisinuiitti on selvästi harvinaisempi. 
+
+c: Allergikon käyttämää nenästeroidia ei keskeytetä flunssan aikana ja sen aloittaminenkin voi olla järkevää, koska allergisella potilaalla limakalvoturvotus on flunssassa usein normaalia voimakkaampaa ja siten altistaa helpommin pitkälle taudinkuvalle tai sinuiitin kehittymiselle. 
+
+d: Virusinfektio pikemminkin vaurioittaa värekarvatoimintaa ja heikentää mukosiliaarista kuljetusta. 
+  </div>
+</div>
+
+## Väittämiä sinuiiteista
+
+- a. Leikki-ikäisillä lapsilla seulalokeroiden tulehdus on harvinaisempi kuin poskiontelotulehdus.
+- b. Rinosinuiitissa mukosiliaaritoiminta vilkastuu virusinfektion vuoksi. Se voi johtaa eriteretention kertymiseen poskionteloon.
+- c. Hammasperäinen sinuiitti on harvoin toispuoleinen.
+- d. Poskiontelon radikaalileikkauksen (Caldwell-Luc) jälkeen sinuiittiepäilyssä poskionteloa ei saa punktoida
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, V, V, O
+
+a: Leikki-ikäisillä seulalokerosto on parhaiten kehittynyt sivuonteloista -> sen tulehdus todennäköisin. Poskiontelot eivät ole vielä yleensä hyvin kehittyneet ja poskiontelotulehdus on harvinainen. 
+
+b: Virusinfektio heikentää (ei siis vilkasta) värekarvatoimintaa → erite kertyy poskionteloihin → bakteeriperäisen jälkitaudin riski kasvaa
+
+c: Hammasperäinen sinuiitti on useimmiten yksipuolinen, koska se liittyy tietyn hampaan infektioon tai operaatioon. Käytännössä kyllä voi olla molemminpuolinen, mutta silloin vaatisi molemminpuolisen infektion sattumalta samaan aikaan. 
+
+d: Caldwell-Luc-leikkaus (CLL) = poskiontelon radikaalileikkaus eli poistetaan poskiontelon limakalvo poskiontelon etuseinämään tehdyn luuaukon kautta. Caldwell-Lucin leikkauksella leikattu poskiontelo arpeutuu ja punktiota ei enää tehdä. 
+
+Endoskooppinen nenäkirurgia (FESS) on kuitenkin muuttanut oleellisesti poskiontelotulehduksen hoitokäytäntöjä. Potilas toipuu FESS-leikkauksesta nopeammin ja jälkivaivat ovat vähäisempiä kuin CLL:ssä. Ensin mainittu on myös nenän ja sivuonteloiden toiminnan kannalta fysiologisempi. CLL on monissa paikoissa joutunut unohduksiin tai julistettu lähes pannaan.
+  </div>
+</div>
+
+## Väittämiä sinuiiteista ja komplikaatioista
+
+- a. Lapsella toispuoleinen punoitus, turvotus ja aristus silmäluomissa voivat viitata preseptaaliselluliittiin. Se voidaan hoitaa avohoidossa esim. amoksisilliinilla.
+- b. Jos potilaalle on tehty infundibulotomiat, ja potilaalla epäillään sinuiittia, kannattaa poskiontelot ensisijaisesti lavatoida alakäytävien kautta.
+- c. Jos potilaalla todetaan NSO-kuvassa varjostunut poskiontelo, mutta huuhtelussa vesi ei kierrä, on tuumori mahdollinen. 
+- d. Pienellä lapsella tulehdus seulalokeroissa voi aikuisia helpommin johtaa komplikaatioon
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, V, O, O
+
+a: Silmän preseptaalinen selluliitti tarkoittaa silmäluomeen rajoittuvaa tulehdusta ja se voi kehittyä luomihaavasta tai olla mm. sinuiitin komplikaatio. Hoitona systeeminen mikrobilääkehoito useimmiten p.o. aikuisille ja yli 5-vuotiaille lapsille 7 vrk:n ajan. **Ensisijaisesti flukloksasilliinia, jos taustalla ihorikko, ja amoksisilliini-klavulaanihappoa, jos taustalla sinuiitti.** Alle 5-vuotiaat lapset ja MRSA-kantajat kuuluvat erikoissairaanhoidon arvioon päivystyksellisesti
+
+b: FESS / infundibulotomia → poskiontelot huuhdellaan keskikäytävän avarretun ostiumin kautta, ei alakäytävien kautta. 
+
+c: Esteellinen kierto huuhtelussa → poskiontelon ahtauma. Jos radiologinen varjostuma + ei kiertoa → epäiltävä tuumoria tai muuta anatomista estettä. 
+
+d: Ethmoidilokerostossa (seulalokerot) seinämät ovat lapsilla ohuempia → infektion leviäminen orbita-alueelle helpompaa. 
+  </div>
+</div>
+
+## Vierasesineistä
+
+- a. Kilpiruston alapuolella tuntuva pisto viittaa ruokatorven vierasesineeseen.
+- b. Jos lapsella on leikkiessä tullut ankara yskänpuuska, joka on mennyt ohi, voi kyseessä silti olla hengitysteiden vierasesine.
+- c. Korkea ikä, runsas lääkitys ja ruokatorven motiliteettihäiriöt voivat altistaa esim. lihapalan juuttumiselle ruokatorveen. Tuolloin erikoissairaanhoidossa voidaan tehdä tähystys taipuisalla tähystimellä (gastroesofagoskopia) ilman nukutusta.
+- d. Jos potilaalla on ruokatorven terävä vierasesine, komplikaationa voi olla ruokatorven perforaatio
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, O, O, O 
+
+a: voi viitata ruokatorveen juuttuneeseen vierasesineeseen. Kilpiruston yläpuolella tuntuva pisto viittaa enemmänkin nielun tai kurkunpään vierasesineeseen. 
+
+b: Totta. Jos alempiin hengitysteihin pääsee vierasesine, oireisto alkaa tyypillisesti muutaman minuutin voimakkaalla yskänkohtauksella, jota seuraa oireeton vaihe, joka kestää tunteja tai päiviäkin ennen pneumoniavaihetta. Jos edes epäilee vierasesinettä hengitysteissä, niin tehdään herkästi bronkoskopia, joka on ensisijainen diagnostinen tutkimus ja samalla toimii hoidollisena toimenpiteenä, jos vierasesine löydetään. 
+
+c: Totta, tähystys tehdään päivystyksellisesti yleensä. 
+
+d: Totta, tämän takia tähystys juuri tehdään päivystyksellisesti, koska perforaatio on hengenvaarallinen. 
+  </div>
+</div>
+
+## Nuhaväittämiä 
+
+- a. Atrofisessa nuhassa limakalvojen turpeudesta johtuen nenä tuntuu tukkoiselta.
+- b. Krooniseen vesinuhaan voidaan kokeilla nenästeroidia, vaikkei potilaalla todettaisikaan IgE-luokan vasta-aineita allergeeneille.
+- c. Tehokkain hoito ohentuneille nenän limakalvoille ovat suolavesi- ja öljysuihkeet.
+- d. Nenäpolypoosi liittyy aina allergiaan
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V, O, O, V 
+
+a: Atrofisessa nuhassa limakalvo on ohentunut ja kuiva, ei turvonnut. Tukkoisuuden tunne voi johtua karstoista ja limakalvon kuivumisesta, ei limakalvoturpeesta.
+
+b: Krooninen vetistävä nuha voi olla ei-allerginen ja nenän kortikosteroidi voi vähentää limakalvoturvotusta ja oireita, vaikka IgE-testit olisivatkin negatiiviset. Esim. jos tässä vesinuhalla tarkoitetaan vasomotorista nuhaa, niin sen hoito perustuu samoihin perusperiaatteisiin kuin allergisen riniitin hoito: nenän suolavesihuuhtelu, nenään annosteltavat kortikosteroidit (vähintään 2-3 kuukautta) ja nenän kostutusvalmisteet.
+
+c: Totta, atrofisessa riniitissä ensisijainen hoito on limakalvojen kostutus. 
+
+d: Nenäpolypoosi voi liittyä ei-allergiseenkin krooniseen riniittiin. 
+  </div>
+</div>
+
+## Nuhaa
+
+- a. Allerginen nuha on tärkeä hoitaa astmaatikoilla. Heillä nenän toiminnalla on merkitystä hyvän astman hoitotasapainon saavuttamisessa.
+- b. Astma on ehdoton este siedätyshoidolle.
+- c. Siedätyshoito suun kautta koivulle ja timoteille kestää 5 vuotta.
+- d. Nenästeroidi on vasta-aiheinen, jos potilaalla on septumperforaatio.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, V, V, O 
+
+a: Oikein. Jopa 80 % astmapotilaista sairastaa kroonista riniittiä, ja allergista riniittiä sairastavista noin 20-40 %:lla on astma. Astmapotilailta pitää aina tutkia mahdollinen allerginen nuha. Hoitamattomina sekä astma että allerginen riniitti heikentävät merkittävästi elämänlaatua ja aiheuttavat kustannuksia. 
+
+b: Huonossa hoitotasapainossa oleva astma on vasta-aihe siedätyshoidolla, ei astma itsessään, jos se on hyvin hoidettu. 
+
+c: Väärin, siedätyshoidon toteutus ilma-allergeeneja vastaan kestää kolme vuotta. Siedätyshoito tehoaa noin 10 vuotta ja vähentää allergisen riniitin oireita sekä lääkehoidon tarvetta.
+
+d: Totta. Nenästeroidi kuivattaa limakalvoa ja heikentää parantumista. Pahimmassa tapauksessa liiallinen nenästeroidien käyttö voi jopa olla septumperforaation taustalla. Nenän limakalvojen kostutus voi vähentää nenän karstoittumista ja vuototaipumusta ja sitä suositellaan kaikille septumperforaatiopotilaille. Nenän kaivelun välttäminen on tärkeää, jotta perforaatio ei laajene. Jos perforaatioon liittyvät oireet haittaavat potilasta, perforaatio voidaan hoitaa kirurgisesti tai silikonisella peittolevyllä
+  </div>
+</div>
+
+## Ihosyövistä
+
+- a. Basosellulaarinen karsinooma on ihon yleisin pahanlaatuinen kasvain.
+- b. Tyvisolusyöpä voi tyypillisesti lähettää etäpesäkkeitä.
+- c. Imikimodi-voidetta voidaan käyttää pinnallisten basalioomien hoidossa.
+- d. Epäilyttävä ihomuutos voidaan poistaa avohoidossa kokonaisuudessaan, kunhan diagnoosi ja poiston riittävyys on varmistettu PAD-näytteellä.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O, V, O, O 
+
+a: Oikein. Seuraavaksi levyepiteelikarsinooma ja sitten melanooma. 
+
+b: Basaliooma metastasoi todella harvoin, vaikka paikallinen invaasio onkin tavallista. 
+
+c: Jos ihon syöpäkasvainta ei ole ensimmäisessä leikkauksessa poistettu kokonaan, suositellaan kasvaimen uusiutumisen estämiseksi ensisijaisesti uusintaleikkausta. Tyvisolusyövän yhteydessä aluetta voidaan hoitaa harkituissa tapauksissa myös nestetyppijäädytyksellä, fotodynaamisella hoidolla tai imikimodivoiteella, jos kyseessä on pienen riskin kasvain eikä leikkausmarginaali ole jäänyt vajaaksi syvyyssuunnassa
+
+d: Näin toimitaan usein ainakin basalioomien kanssa, levyepiteelikarsinoomat ja melanoomat useimmiten ESH. 
+  </div>
+</div>
