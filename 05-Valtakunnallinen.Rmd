@@ -1,6 +1,6 @@
 # Valtakunnallinen kysymyspankki (Kuopio&Oulu) - Monivalinnat
 
-Wikiin on saatu kerättyä Kuopion ja Oulun lääkiksistä valtakunnallista kysymyspankkia. Jotkut tärpeistä ei ole suoraan monivalintaa, kuten viime vuonna Turun tenteissä. Tähän kerätty ensin monivalinnat ja vasta tämän kirjan lopussa tulee avoimempia kysymyksiä. 
+Wikiin on saatu kerättyä Kuopion ja Oulun lääkiksistä valtakunnallista kysymyspankkia. Jotkut tärpeistä ei ole suoraan monivalintaa, kuten viime vuosina Turun tenteissä. Tähän kerätty ensin monivalinnat ja vasta tämän kirjan lopussa tulee avoimempia kysymyksiä. 
 
 Aikaisemmissa kappaleissa olleet kysymykset jätetty tässä mainitsematta ja alla vain uusia kysymyksiä.
 
@@ -287,7 +287,7 @@ Kuva on suoraan otettu oppikirjan meluvamma-kappaleesta. Audiogrammissa meluvamm
     Vastaus
   </button>
   <div class="solution-content">
-      b
+      c
 
 Audiogrammia tulkitessa taajuusalueet jaetaan yleensä kolmeen alueeseen: 
 
@@ -296,6 +296,8 @@ Audiogrammia tulkitessa taajuusalueet jaetaan yleensä kolmeen alueeseen:
 3. Korkeat äänet/suuret taajuudet 2 - 8 kHz
 
 Puheen ymmärrettävyys (erityisesti hälyssä) perustuu ennen kaikkea konsonantteihin ja erityisesti korkeisiin konsonantteihin (esim. s, t ja k), jotka sijoittuvat korkeille taajuuksille. Ikäkuulossa varsinkin korkeiden taajuuksien kynnykset laskevat -> puheen ymmärtäminen hälyssä heikkenee. 
+
+Kuitenkin myös keskitaajuuksien kuuloalueilla on tärkeä merkitys -> sinänsä b voisi myös olla oikein. Vaihtoehto c on kuitenkin enemmän oikein 
 
 ![](images/puhebanaani.png)
   </div>
