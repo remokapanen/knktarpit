@@ -1905,11 +1905,11 @@ Vastaanotollesi tulee 42-vuotias mies, jolla on ainakin viiden kuukauden ajan ol
   <div class="solution-content">
       d
 
-Sama kaveri, joka oli Turun 2024 tentissä. Silloin tila oli viel äsiinä, että nenästeroidia ei ollut aloitettu ja tilanne vaikutti krooniselta rinosinuiitilta, koska kroonisen rinosinuiitin oireita ovat nenän tukkoisuus, eritteisyys, liman valuminen, kasvojen paineoireet ja hajuaistin heikkeneminen. Diagnoosi tehdään perusterveydenhuollossa ja se perustuu oireisiin ja kliinisiin löydöksiin, kuten nenän limakalvotulehdukseen, limaan ja polyyppeihin sekä rakenteellisten altistavien tekijöiden (nenän väliseinän vinous) arviointiin.
+Sama kaveri, joka oli Turun 2024 tentissä. Silloin tilanne oli vielä siinä, että nenästeroidia ei ollut aloitettu ja tilanne vaikutti krooniselta rinosinuiitilta, koska kroonisen rinosinuiitin oireita ovat nenän tukkoisuus, eritteisyys, liman valuminen, kasvojen paineoireet ja hajuaistin heikkeneminen. Diagnoosi tehdään perusterveydenhuollossa ja se perustuu oireisiin ja kliinisiin löydöksiin, kuten nenän limakalvotulehdukseen, limaan ja polyyppeihin sekä rakenteellisten altistavien tekijöiden (nenän väliseinän vinous) arviointiin.
 
 Ensisijainen hoito kroonisessa rinosinuiitissa on nenään annosteltavat kortikosteroidisuihkeet ja nenän huuhtelu keittosuolaliuoksella. Potilaalle voitiin siis aloittaa terveyskeskuksessa esim. mometasonifuroaattinenäsumute. 
 
-Nyt kun potilas on jo käyttänyt nenästeroidia eikä se ole auttanut. Mikäli konservatiivisista hoidoista huolimatta oireiden hallinta ei ole riittävää, voidaan potilas lähettää erikoissairaanhoitoon, jossa harkitaan sivuonteloiden tähystysleikkausta (FESS). Leikkauksessa onteloiden aukkoja laajennetaan ja tarvittaessa muita rakenteellisia ahtauksia avataan. 
+Nyt potilas on jo käyttänyt nenästeroidia eikä se ole auttanut. Mikäli konservatiivisista hoidoista huolimatta oireiden hallinta ei ole riittävää, voidaan potilas lähettää erikoissairaanhoitoon, jossa harkitaan sivuonteloiden tähystysleikkausta (FESS). Leikkauksessa onteloiden aukkoja laajennetaan ja tarvittaessa muita rakenteellisia ahtauksia avataan. 
 
 Punktiossa kasvava S. aureus on todennäköisesti kolonisaatiota. Jos jokin bakteeri kasvaa nenässä, niin se on yleensä S. aureus, koska se kolonisoi useimmiten nareksen. 
 
@@ -2011,7 +2011,9 @@ Laryngektomoitujen kurkunpääsyöpäpotilaiden puheen kuntoutukseen kuuluu vaih
   <div class="solution-content">
       b
 
-Ensisijaiset välikorvatulehduksen hoidossa käytettävät antibiootit ovat amoksisilliini ja amoksisilliini-klavulaanihappo. Amoksisilliinin käytön puolesta puhuvat sen kapeampi kirjo ja vähäisemmät (suolisto)haittavaikutukset amoksisilliini-klavulaanihappoon nähden. Jos se jo toimi aikaisemmin potilaalle, niin sitä voidaan yrittää uudelleen. Antibiootin valinnassa tulee ottaa huomioon lapsen kokonaistilanne sekä lääkkeen haittavaikutusprofiili ja alueellinen aiheuttajabakteerien herkkyystilanne.
+Ensisijaiset välikorvatulehduksen hoidossa käytettävät antibiootit ovat amoksisilliini ja amoksisilliini-klavulaanihappo. Amoksisilliinin käytön puolesta puhuvat sen kapeampi kirjo ja vähäisemmät (suolisto)haittavaikutukset amoksisilliini-klavulaanihappoon nähden. Antibiootin valinnassa tulee ottaa huomioon lapsen kokonaistilanne sekä lääkkeen haittavaikutusprofiili ja alueellinen aiheuttajabakteerien herkkyystilanne.
+
+Yleensä amoksisilliini on ensisijainen kokeiltava ja klavulaanihappo lisätään mukaan vasta, jos pelkkä amoksisilliini ei auta.
   </div>
 </div>
 
@@ -2367,7 +2369,7 @@ d: Infektioiden perussyy on tässä suhteellisen selkeä eikä ole epäilyä mis
 
 ## Kutinaa korvissa ja atopiaa 
 
-27-vuotiaalla lääketieteenopiskelijalla on kutinaa molemmissa korvakäytävissä. Hänellä on siitepöly allergiaa ja atopiaa, muuten perusterve. Korvakäytävien iho on punoittava, mutta muuten siisti. Käytävissä on vähäisesti kuivaa hilseilevää vaikkua. Välillä korvat kipeytyvät ja tuntuvat kosteilta, mutta varsinaisia märkiviä tulehduksia ei ole ollut. Miten hoidetaan?
+27-vuotiaalla lääketieteenopiskelijalla on kutinaa molemmissa korvakäytävissä. Hänellä on siitepölyallergiaa ja atopiaa, muuten perusterve. Korvakäytävien iho on punoittava, mutta muuten siisti. Käytävissä on vähäisesti kuivaa hilseilevää vaikkua. Välillä korvat kipeytyvät ja tuntuvat kosteilta, mutta varsinaisia märkiviä tulehduksia ei ole ollut. Miten hoidetaan?
 
 - a) Aloitetaan antihistamiini todennäköisen allergisen ekseeman hoitoon.
 - b) Aloitetaan ihoöljy korvakäytäviin ja hydrocortisonvoide ohuelti korvakäytävien suulle.
@@ -2545,7 +2547,7 @@ c: Ei ole syytä epäillä; kuulo todennäköisesti vain laskenut sen verran, et
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      b(d)
 
 Mallivastauksissa vastaus on 30 dB, mutta suurimmassa osassa lähteitä kuulonalenema vaihtelee mitättömästä aivan maksimissaan 50 dB asti. Yleensä alenema on n. 20-30 dB. 
 
@@ -2840,15 +2842,17 @@ b ja c: Ei ole nenäpolypoosia todennäköisesti
     Vastaus
   </button>
   <div class="solution-content">
-      c/d
+      c
 
-Ensisijainen hoito kroonisessa rinosinuiitissa (niin ei-polypoottisessa kuin polypoottisessakin) on nenään annosteltavat kortikosteroidisuihkeet ja nenän huuhtelu keittosuolaliuoksella. **Nenästeroidia voidaan käyttää säännöllisesti, mutta ei sitä usein ikuisesti käytetä yhtäjaksoisesti.** Jos noin 2 kuukauden paikallishoito ei riittävästi helpota oireita, voidaan harkita paikallishoidon lisäksi peroraalista 2 viikon kortikosteroidikuuria. Jos oireet ovat parantuneet, hoidon jatkosta päätetään potilaan aiemman sivuontelotulehdusanamneesin perusteella. Jos oireet jatkuvat, suositellaan NSO-kuvausta ja mikrobiviljelyn tekemistä keskikäytävästä tai poskiontelopunktion yhteydessä. Niiden perusteella arvioidaan lisälääkityksen tarve. Lisähoidon jälkeen tehdään seurantatutkimus. 
+Ensisijainen hoito kroonisessa rinosinuiitissa (niin ei-polypoottisessa kuin polypoottisessakin) on nenään annosteltavat kortikosteroidisuihkeet ja nenän huuhtelu keittosuolaliuoksella. **Nenästeroidia tulee käyttää säännöllisesti päivittäin, mutta jos noin 2-3 kuukauden paikallishoito ei riittävästi helpota oireita, voidaan harkita paikallishoidon lisäksi peroraalista 2 viikon kortikosteroidikuuria. Jos oireet ovat parantuneet, hoidon jatkosta päätetään potilaan aiemman sivuontelotulehdusanamneesin perusteella. Jos oireet jatkuvat, suositellaan NSO-kuvausta ja mikrobiviljelyn tekemistä keskikäytävästä tai poskiontelopunktion yhteydessä. Niiden perusteella arvioidaan lisälääkityksen tarve. Lisähoidon jälkeen tehdään seurantatutkimus. 
 
 Jos oireet eivät ole helpottaneet hoidon avulla, suositellaan lähetettä erikoissairaanhoitoon. Leikkaushoitoa suositellaan pitkittyneissä tai usein toistuvissa sivuontelotulehduksissa, kun muilla hoidoilla ei ole päästy riittävän hyvään tulokseen
 
 a: Taustalla on enemmänkin pitkittynyt tulehdus kuin infektio 
 
 b: Ei aina poisteta. 
+
+d: Ei käytetä jaksottaisesti, vaan päivittäin vähintään 2-3kk.
   </div>
 </div>
 
@@ -2995,9 +2999,9 @@ Krooninen hajuaistihäiriö (anosmia tai hyposmia) aikuisella johtuu useimmiten 
 
 b: Parkinsonissa hajuaistin heikkeneminen on varhainen merkki, mutta on harvinaisempi 
 
-c: Mahdollinen, mutta harvinasempi 
+c: Mahdollinen, mutta harvinaisempi. 
 
-d: Voi aiheuttaa lievää hajuaistin heikentymistä, jos nenäontelo tukossa, mutta merkittävä hajuaistin vähenemä on harvinaista. Usein oire liittyy enemmän ilman kulun vaikeuteen kuin hajuaistin vähenemään. 
+d: Voi aiheuttaa lievää hajuaistin heikentymistä, jos nenäontelo tukossa, mutta merkittävä hajuaistin vähenemä on harvinaista. Usein oireet liittyvät enemmän ilman kulun vaikeuteen kuin hajuaistin vähenemään. 
   </div>
 </div>
 
