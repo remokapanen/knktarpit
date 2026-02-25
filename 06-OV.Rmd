@@ -40,7 +40,7 @@ d: Äkillinen yskänpuuska viittaa hengitysteihin, ei ruokatorveen
   <div class="solution-content">
       V, V, V, O
 
-a ja d: Jos on leikatut poskiontelot, usein hoidon tärkein osa on mekaaninen tyhjennys, joka voidaan tehdä tylpällä lavaatiokärjellä keskikuorikon alta, jos potilaalle on tehty keskikäytävän antrostomia ja alakuorikon alta, jos on alakäytävässä aukko. Myös perinteinen punktio on vaihtoehtoisesti mahdollinen FESS-leikatulle. 
+a ja d: Leikattu poskiontelo voidaan huuhdella käyrällä lavaatiokärjellä antrostomia-aukosta, joka on löydettävissä joko alakuorikon ala-lateraalipuolelta (alakäytäväantrostomia tai Caldwell-Lucin leikkaus) tai keskikuorikon lateraalipuolelta hieman keskikuorikon alareunan tason yläpuolelta (FESS-leikkaus). On varottava aikaansaamasta limakalvorikkoumia keskikuorikkoon.
 
 b: Jos potilaalle on tehty Caldwell–Lucin leikkaus (poskiontelon radikaalileikkaus eli poistetaan poskiontelon limakalvo poskiontelon etuseinämään tehdyn luuaukon kautta), niin poskiontelopunktiota ei voi tehdä.
 
@@ -48,7 +48,7 @@ c: Akuuteissa sinuiiteissa kliininen kuva + anamneesi riittää hoitopäätökse
   </div>
 </div>
 
-## 2-vuotias lapsi, jolla silmä on muurautunut umpeen. Lapsella on ollut kova nuha noin viikon ajan. Nyt lapsi kuumeilee ad 40o C. Lapsi on väsähtänyt ja kipeä.
+## 2-vuotias lapsi, jolla silmä on muurautunut umpeen. Lapsella on ollut kova nuha noin viikon ajan. Nyt lapsi kuumeilee ad 40C. Lapsi on väsähtänyt ja kipeä.
 
 - a. Kyseessä on sinuiitti ja lapselle pitää tehdä punktiot.
 - b. Lapsen tila on septinen ja se vaatii päivystyslähetteen KNK-klinikkaan.
@@ -166,7 +166,7 @@ Ihomuutosten tapauksessa yleensä c on oikea toimintamalli. Dokumentoidaan muuto
 
 a: Epäily maligniteetista → tulee ottaa näyte
 
-b: Basalioomaepäilyn kanssa voi odottaa kyllä PAD-vastausta, ei ole niin kiirettä ESH-lähetteen kanssa. Monet basalioomat voi myös hoitaa itse PTH:ssa, kunhan vain varmistaa marginaalin toteutumisen. 
+b: Basalioomaepäilyn kanssa voi kyllä odottaa PAD-vastausta, ei ole niin kiirettä ESH-lähetteen kanssa. Monet basalioomat voi myös hoitaa itse PTH:ssa, kunhan vain varmistaa marginaalin toteutumisen. 
 
 d: Muutoksista otetaan aina mahdollisuuksien mukaan näyte ennen ESH-lähetettä. 
   </div>
@@ -426,7 +426,7 @@ d: Ethmoidilokerostossa (seulalokerot) seinämät ovat lapsilla ohuempia → inf
   <div class="solution-content">
       O, O, O, O 
 
-a: voi viitata ruokatorveen juuttuneeseen vierasesineeseen. Kilpiruston yläpuolella tuntuva pisto viittaa enemmänkin nielun tai kurkunpään vierasesineeseen. 
+a: Voi viitata ruokatorveen juuttuneeseen vierasesineeseen. Kilpiruston yläpuolella tuntuva pisto viittaisi taas enemmänkin nielun tai kurkunpään vierasesineeseen. 
 
 b: Totta. Jos alempiin hengitysteihin pääsee vierasesine, oireisto alkaa tyypillisesti muutaman minuutin voimakkaalla yskänkohtauksella, jota seuraa oireeton vaihe, joka kestää tunteja tai päiviäkin ennen pneumoniavaihetta. Jos edes epäilee vierasesinettä hengitysteissä, niin tehdään herkästi bronkoskopia, joka on ensisijainen diagnostinen tutkimus ja samalla toimii hoidollisena toimenpiteenä, jos vierasesine löydetään. 
 
@@ -478,7 +478,7 @@ a: Oikein. Jopa 80 % astmapotilaista sairastaa kroonista riniittiä, ja allergis
 
 b: Huonossa hoitotasapainossa oleva astma on vasta-aihe siedätyshoidolla, ei astma itsessään, jos se on hyvin hoidettu. 
 
-c: Väärin, siedätyshoidon toteutus ilma-allergeeneja vastaan kestää kolme vuotta. Siedätyshoito tehoaa noin 10 vuotta ja vähentää allergisen riniitin oireita sekä lääkehoidon tarvetta.
+c: Väärin, siedätyshoidon toteutus ilma-allergeeneja vastaan kestää 3 vuotta. Siedätyshoito tehoaa noin 10 vuotta ja vähentää allergisen riniitin oireita sekä lääkehoidon tarvetta.
 
 d: Totta. Nenästeroidi kuivattaa limakalvoa ja heikentää parantumista. Pahimmassa tapauksessa liiallinen nenästeroidien käyttö voi jopa olla septumperforaation taustalla. Nenän limakalvojen kostutus voi vähentää nenän karstoittumista ja vuototaipumusta ja sitä suositellaan kaikille septumperforaatiopotilaille. Nenän kaivelun välttäminen on tärkeää, jotta perforaatio ei laajene. Jos perforaatioon liittyvät oireet haittaavat potilasta, perforaatio voidaan hoitaa kirurgisesti tai silikonisella peittolevyllä
   </div>
