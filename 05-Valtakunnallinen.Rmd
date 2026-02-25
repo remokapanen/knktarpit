@@ -208,6 +208,9 @@ a: Voi imeä ilman kostutusta
 
 b: Jos kanyyli vaikuttaa olevan täysin tukossa eikä imuletku mene siitä läpi ja tukosta saada avattua, tulee mahdollinen kuffi tyhjentää kanyylin ohi tapahtuvan ilmavirtauksen mahdollistamiseksi. 
 
+![](images/trakeostomiantukkeutuminen.png)
+![](images/limanimu.png)
+
 ![](images/tracheostomyemergency.png)
   </div>
 </div>
@@ -873,7 +876,7 @@ d: Mahdolliset toimenpiteet tehdään yleensä yleisanestesiassa eikä paikallis
 - a) 5-7 vrk empiirinen antibioottikuuri ja riittävä kipulääkitys
 - b) 5-7 vrk empiirinen antibioottikuuri ja riittävä kipulääkitys ja lähete hammaslääkärille
 - c) lähete kaulan ultraäänitutkimukseen ja tarvittaessa ONB
-- d) lähete erikoissairaanhoitoon päivystyksen
+- d) lähete erikoissairaanhoitoon päivystykseen
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -934,10 +937,10 @@ d: Voi harvinaisesti aiheuttaa, mutta korvan rakkulamainen kuvaus ei oikein sovi
   </button>
   <div class="solution-content">
       a
-´
+      
 Alahengitystievierasesineen tapauksessa oireet alkavat usein voimakkaalla yskänkohtauksella. Alkuvaiheessa on usein myös hengityksen vinkumista ja jopa syanoosia. Oireet kestävät muutamia minuutteja ja loppuvat, vaikka vierasesine jää bronkukseen. Äkillisesti alkanutta voimakasta yskänkohtausta ja hengitysvaikeutta on lapsella aina pidettävä vierasesineaspiraationa, ellei muuta syytä todeta. 
 
-Lopullinen alahengitystievierasesineiden diagnoosi perustuu bronkospiaan, joka samalla toimii hoidollisena toimenpiteenä. **Pelkkä epäilykin vierasesineestä riittää bronkoskopiaan,** koska jos asiaa jää seuraamaan, niin potilaalle voi kehittyä oireettoman vaiheen jälkeen ilkeän ja vaikeahoitoisen pneumonia, jonka yhteydessä esineen poistaminen on entistä vaikeampaa. 
+Lopullinen alahengitystievierasesineiden diagnoosi perustuu bronkospiaan, joka samalla toimii hoidollisena toimenpiteenä. **Pelkkä epäilykin vierasesineestä riittää bronkoskopiaan,** koska jos asiaa jää seuraamaan, niin potilaalle voi kehittyä oireettoman vaiheen jälkeen ilkeä ja vaikeahoitoinen pneumonia, jonka yhteydessä esineen poistaminen on entistä vaikeampaa. 
 
 Hengitysäänet kuuluvat hiljaisempina oikealla, koska vierasesine on mennyt oikeaa pääbronkusta pitkin. **Yleensä vierasesineet juuri kulkevat oikealle,** koska oikeanpuoleinen bronkus on vertikaalisemmassa kulmassa kuin vasen -> painovoima vetää oikealle helpommin. 
   </div>
@@ -1019,7 +1022,7 @@ Tässä on vertikaalinen nystagmus
   <div class="solution-content">
       c
 
-Äkillisellä kuulonmenetyksellä tyypillisesti tarkoitetaan idiopaattista sensorineuraalista kuulonmenetystä. Se tarkoittaa tilaa, jossa sensorineuraalinen kuulo huononee vähintään kolmella vierekkäisellä taajuudella ≥ 30 dB alle 3 vrk:n aikana tuntemattomasta syystä. Akillisen kuulonmenetyksen ilmaantuvuus on 8–15/100 000 henkeä/vuosi -> saattaa tulla vastaankin. Etiologiaksi on epäilty sisäkorvan verenkiertohäiriötä (epätodennäköinen, kun ilmaantuu eniten 30-60-vuotiaiden joukossa), virustulehdusta, autoimmuunisairautta (ehkä todennäköisin), sisäkorvan kalvorepeämää tai sisäkorvan solujen stressireitin poikkeavaa aktivaatiota. Korva on inspektoiden normaali.
+Äkillisellä kuulonmenetyksellä tyypillisesti tarkoitetaan idiopaattista sensorineuraalista kuulonmenetystä. Se tarkoittaa tilaa, jossa sensorineuraalinen kuulo huononee vähintään kolmella vierekkäisellä taajuudella ≥ 30 dB alle 3 vrk:n aikana tuntemattomasta syystä. Äkillisen kuulonmenetyksen ilmaantuvuus on 8–15/100 000 henkeä/vuosi -> saattaa tulla vastaankin. Etiologiaksi on epäilty sisäkorvan verenkiertohäiriötä (epätodennäköinen, kun ilmaantuu eniten 30-60-vuotiaiden joukossa), virustulehdusta, autoimmuunisairautta (ehkä todennäköisin), sisäkorvan kalvorepeämää tai sisäkorvan solujen stressireitin poikkeavaa aktivaatiota. Korva on inspektoiden normaali.
 
 Koska on sensorineuraalinen kuulonmenetys ja yleensä unilateraalinen, niin todetaan sensorineuraalisen kuulovian kuva äänirautakokeissa. 
 
@@ -1068,7 +1071,7 @@ Kirkas, oljenkeltainen neste on tyypillistä poskiontelon retentiokystalle, joka
 
 Kystan diagnostiikka perustuu kliiniseen tutkimukseen ja tarvittaessa kuvantamiseen, ja kirkas neste erottaa sen bakteeriperäisestä sinuiitista, jossa erite on yleensä sameaa tai märkäistä.
 
-b: Polyposis voi aiheuttaa tukkoisuutta ja paineoireita, mutta ei tyypillisesti johda kirkkaan nesteen erittymiseen poskiontelopunktiossa. 
+b: Polypoosi voi aiheuttaa tukkoisuutta ja paineoireita, mutta ei tyypillisesti johda kirkkaan nesteen erittymiseen poskiontelopunktiossa. 
 
 c: Bakteeriperäisessä sinuiitissa erite on yleensä sameaa, kellertävää tai vihertävää, ja siihen liittyy usein kuume ja voimakkaampi infektio-oireisto.
 
@@ -1300,11 +1303,11 @@ Toimenpiteessä palpoidaan kilpiruston ja sormusruston välinen alue ja mennää
     Vastaus
   </button>
   <div class="solution-content">
-      c
+      a
 
 N. hypoglossus eli CN XII on kielen motorisesta toiminnasta vastaava aivohermo. Kielen faskikulaatioiden tautalla voi olla mm. ALS, joka on tärkein aivohermon XII alemman motoneuronin toimintaan vaikuttava sairaus. 
 
-Alle olevassa videossa potilaalla on ALS:n aiheuttamat kielifaskikulaatiot.
+Alla olevassa videossa potilaalla on ALS:n aiheuttamat kielifaskikulaatiot.
 
 b: N. facialis on kasvolihasten aivohermo, ei kielen. Se kyllä hermottaa anteriorisen kielen makuaistia, mutta ei osallistu kielen motoriikkaan 
 
@@ -1410,7 +1413,7 @@ a: Pitkäkestoinen ja ajoittainen oire voi olla funktionaalinen, mutta ei nyt su
 
 b: Ruokatorven perforaatio ja epiglottiitti ovat äkillisiä, rajuoireisia ja usein henkeä uhkaavia -> eivät aiheuta "ajoittaisia" nielemisvaikeuksia. 
 
-d: Palan tunne (globus) ei todellakaan aina vaadi MRI:tä ja on usein funktionaalinen 
+d: Palan tunne (globus) ei todellakaan aina vaadi MRI:tä ja on usein funktionaalinen. MRI ei myöskään ole yleensä ensisijainen tutkimus.  
   </div>
 </div>
 
@@ -1677,7 +1680,7 @@ Terveyskeskuksen vuodeosastolla on syöpähoitojen jälkeen trakeostomoitu potil
 - a. annan avaavaa lääkettä ja adrenaliinia
 - b. avustan hengitystä maskilla happilisän kanssa
 - c. poistan trakeostoomakanyylin, se on luultavasti tukkeutunut
-- d. putsaan kanyyliä sen olleessa paikallaan potilaan kaulalla
+- d. putsaan kanyyliä sen ollessa paikallaan potilaan kaulalla
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -1689,6 +1692,9 @@ Terveyskeskuksen vuodeosastolla on syöpähoitojen jälkeen trakeostomoitu potil
 Äkillinen hengityksen vaikeutuminen viittaa vahvasti siihen, että ilma ei kulje kanyylin läpi ja tämän yleisin syy on kanyylin tukkeutuminen (limatulppa, kuivuminen, veri). 
 
 Tukos saadaan usein imulla poistettua. Sisäkanyylin voi poistaa ja imeä ulkokanyylin kautta kanyyliä tyhjäksi sekä putsata sisäkanyylin. Koko kanyyliä ei tarvitse poistaa, jos nämä toimenpiteet riittävät. 
+
+![](images/trakeostomiantukkeutuminen.png)
+![](images/limanimu.png)
 
 ![](images/tracheostomyemergency.png)
 
