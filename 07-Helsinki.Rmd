@@ -94,7 +94,7 @@ d: Huuli-suulakihalkio olisi nähtävissä eikä piilossa; halkiot myös nimenom
 ### Äänihuulen polyyppi
 
 - a. esiintyy usein allergikolla
-- b. paranee useinmiten ilman toimenpiteitä
+- b. paranee useimmiten ilman toimenpiteitä
 - c. voi johtua äänihuulten traumasta
 - d. pitää poistaa dysplasian asteen arvioimiseksi 
 
@@ -111,7 +111,7 @@ a: Kurkunpään polyyppi ei liity allergiseen taipumukseen (kuten usein nenäpol
 
 b: Käytännössä aina hoidetaan kirurgisella poistolla
 
-d: Isommat polyypit eivät katoa oikein itsestään -> poistetaan oireiden hoidoksi, ei dysplasian asteen arvioimiseksi
+d: Isommat polyypit eivät oikein katoa itsestään -> poistetaan oireiden hoidoksi, ei dysplasian asteen arvioimiseksi
 
 ![](images/äänihuulipolyyppi.png)
   </div>
@@ -137,8 +137,6 @@ d: Isommat polyypit eivät katoa oikein itsestään -> poistetaan oireiden hoido
 **Äänihuulikyhmyt ovat yleisimpiä erityisesti kahdelle potilasryhmälle: nuoret joukkupelejä harrastavat pojat ja äänityötä tekevät/muuten kovaääniset nuoret naiset.** Äänihuulikyhmyjen aiheuttaja on runsas ja voimakas äänenkäyttö, joka aiheuttaa mikrotraumojen kautta limakalvon paksuuntumista. 
 
 **Kaikki äänityötä tekevät aikuiset kyhmypotilaat pitää lähettää ääniterapiaan. Kyhmyt katoavat vain rasitusta vähentämällä.** Hoidoksi ja uusiutumisen ehkäisyyn puhetyöläiselle äänenvahvistuslaite.
-
-Poikien hoitamiseksi riittää valistus: ei saa huutaa kilpaa. Poikien äänihuulikyhmyt katoavat äänenmurroksen yhteydessä. Jos tytöllä todetaan äänihuulikyhmyt, tämä viittaa yleensä ongelmaan joko limakalvon värähtävässä mekanismissa tai äänenkäyttötavassa. Nämä tytöt ovat usein kuuluvaäänisiä. Tyttöjen tapauksessa kannattaa harkita foniatrista konsultaatiota. On nimittäin tavallista, että ääni tulee myöhemminkin herkästi käheytymään ja kestää huonosti rasitusta 
 
 a: Ei ole infektio kyseessä 
 
@@ -353,7 +351,7 @@ Kyseessä on vanha potilas, jolla on palpoitava resistenssi suunpohjassa, joka e
   <div class="solution-content">
       c
       
-Täydellisessä kalorisessa kokeessa kumpaankin korvakäytävään johdetaan vuorotellen lämmintä ja kylmää vettä tai ilmaa. Potilas on selin makuulla pää kallistettuna 30° eteen ja ylös siten, että horisontaalinen kaarikäytävä on pystyasennossa. Näin lämpötilan muutos laukaisee endolymfan liikkeen, joka on lämpimällä (44 °C) ärsykkeellä stimuloivaa ja kylmällä (30 °C) ärsykkeellä inhiboivaa kaarikäytävälle. 
+Täydellisessä kalorisessa kokeessa kumpaankin korvakäytävään johdetaan vuorotellen lämmintä ja kylmää vettä tai ilmaa. Potilas on selin makuulla pää kallistettuna 30° eteen ja ylös siten, että horisontaalinen kaarikäytävä on pystyasennossa. Näin lämpötilan muutos laukaisee endolymfan liikkeen, joka on lämpimällä ärsykkeellä stimuloivaa ja kylmällä ärsykkeellä inhiboivaa kaarikäytävälle. 
 
 Kalorinen reaktio kertoo vestibulaarijärjestelmän tilasta. Jos reaktio on positiivinen eli nystagmusta tai huimausta ilmenee, vestibulaarijärjestelmä on kunnossa. Kalorisen kokeen etu on, että se on varsin helppo suorittaa, ja molemmat korvat voidaan tutkia erikseen. Haittapuolia ovat, että vain horisontaalinen kaarikäytävä on tutkittavissa. Lisäksi potilaan vireystila ja ohimoluun rakenne vaikuttavat vasteisiin.
 
@@ -400,7 +398,7 @@ d: Epikutaanitestillä selvitetään allergiseksi epäillyn kosketusihottuman sy
 
 - a. Septoplastia
 - b. suulaen ja kielentyven kuumennushoito (RFA) ja kieliluun nosto
-- c. hypoglossus stimulaattori
+- c. hypoglossus-stimulaattori
 - d. partiaalinen uvulektomia 
 
 <div class="solution">
@@ -759,7 +757,7 @@ d: Immunoterapialla yleensä viitataan siedätyshoitoon. Sitä voidaan harkita, 
 
 - a. Nekrotisoiva otiitti, päivystyslähete korvalääkärille
 - b. Syöpä korvassa, kiireellinen lähete korvalääkärille
-- c. Kolesteatooma, lähetän korvalääkärille normaalikiireellisyydelläa.
+- c. Kolesteatooma, lähetän korvalääkärille normaalikiireellisyydellä.
 - d. Toistuvasta antibiootista aiheutunut sienitulehdus. Klotrimatsolitippakuuri 2 viikkoa ja kontrolli.
 
 ![](images/2023tehtävä30.png)
@@ -1366,7 +1364,7 @@ d: Induktiosilmukkaa käytetään yhdessä tyypillisen korvantauskuulokojeen kan
 
 ## 2025 
 
-### Potilas tulee vastaanotolle tulosyyllä "nielemisvaikeus/palantunne". Mikä allaolevista viittaa neurologiseen taustaan nielemisongelman takana?
+### Potilas tulee vastaanotolle tulosyyllä "nielemisvaikeus/palantunne". Mikä alla olevista viittaa neurologiseen taustaan nielemisongelman takana?
 
 - a. Sulamatonta ruokaa palaa takaisin suuhun nielemisen jälkeen
 - b. Tyhjän nieleminen pahentaa oiretta
@@ -1682,7 +1680,7 @@ d: Kiireellinen tutkiminen aiheellista
 
 
 - a. Ipratropiumbromidi nenäsuihke
-- b. Setiritsiinip.o.
+- b. Setiritsiini p.o.
 - c. Pseudoefedriini + akrivastiini p.o.
 - d. Atselastiini + flutikasoni nenäsuihke
 
