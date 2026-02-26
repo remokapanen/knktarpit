@@ -976,7 +976,7 @@ Jos nenän limakalvo on atrofinen, limaa muodostuu liian niukasti ja sen lisäks
 
 Hoitona on limakalvojen kosteutus. Paikallisesti nenään käytettävät vesi- ja öljypohjaiset suihkeet ovat kuivan limakalvon suositeltavia hoitoja. Tavallista ruokaöljyäkin voi käyttää. Nenähuuhteluista fysiologisella suolaliuoksella on eniten hyötyä karstojen poistossa. Iäkkään potilaan nenän kuivien limakalvojen hoidossa käytetään kostuttavia valmisteita. 
 
-a ja d: Nenäkortikosteroidivalmisteen tai muiden lääkkeiden annosta pienennetään tai lopetetaan kokonaan atrofisessa riniitissä, koska ne vain kuivattavat enemmän. 
+b ja d: Nenäkortikosteroidivalmisteen tai muiden lääkkeiden annosta pienennetään tai lopetetaan kokonaan atrofisessa riniitissä, koska ne vain kuivattavat enemmän. 
 
 c: Potilas voi hyötyä ipratropiumsuihkeesta, mikäli ei-allergisen nuhan pääoireena on runsas ja kirkas nuhaerite eikä ole tässä tapauksessa ensisijainen. Iäkkäillä potilailla on myös syytä muistaa antikolinergisen lääkityksen haitat ja vasta-aiheet. 
 
@@ -1276,7 +1276,7 @@ d: Alkoholin ja tupakan leikkaaminen pois ei ole kirjaimellisesti leikkaamista
 
 ## Ylimääräisen tunne nielussa nuorella stressaantuneella opiskelijalla
 
-25-vuotias Marko viimeistelee pro gradu -työtään. Hän on viettänyt pitkiä päiviä tietokoneen ääressä. Lopputyön lisäksi hän on muuttamassa toiselle paikkakunnalle töihin ja ilat kuluvat pakatessa. Viime aikoina Markolla on ollut ylimääräisen tunne nielussa. Tämä tuntuu erityisesti tyhjää niellessä. Syöminen sujuu hyvin. Marko tulee vastaanotollesi terveyskeskukseen. Mitä teet?
+25-vuotias Marko viimeistelee pro gradu -työtään. Hän on viettänyt pitkiä päiviä tietokoneen ääressä. Lopputyön lisäksi hän on muuttamassa toiselle paikkakunnalle töihin ja illat kuluvat pakatessa. Viime aikoina Markolla on ollut ylimääräisen tunne nielussa. Tämä tuntuu erityisesti tyhjää niellessä. Syöminen sujuu hyvin. Marko tulee vastaanotollesi terveyskeskukseen. Mitä teet?
 
 - a) Lähetän Markon KNK-klinikkaan alanielun tähystystä varten, koska maligniteetti pitää ensisijaisesti poissulkea
 - b) Lähetän Markon gastroskopiaan, koska globustuntemuksen aiheuttaa yleisimmin refluksitauti

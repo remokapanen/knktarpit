@@ -18,13 +18,13 @@ Vanhoista tenteistä samoja kysymyksiä oli 3, jonka takia kysymyksiä on nyt t�
   <div class="solution-content">
       a
 
-Vuotopaikan tunnistamisessa ja vuodon vähentämisessä on hyödyllistä supistaa ja puuduttaa alue lidokaiini-adrenaliiniseuoksella, jota on kaadettua reilun kokoiseen puudutuspumpuliin. Pumpuli asetetaan oletettuun vuotokohtaan, ja potilas puristaa sieraimia yhteen vähintään 15 min      
+Vuotopaikan tunnistamisessa ja vuodon vähentämisessä on hyödyllistä supistaa ja puuduttaa alue lidokaiini-adrenaliiniseoksella, jota on kaadettu reilun kokoiseen puudutuspumpuliin. Pumpuli asetetaan oletettuun vuotokohtaan, ja potilas puristaa sieraimia yhteen vähintään 15 min      
 
 b: Nenäverenvuodon ensiapuohjeet annetaan usein puhelimitse. Potilasta pyydetään tyhjentämään nenä hyytymistä niistämällä. **Asennoksi neuvotaan etukumara istuma-asento,** jotta vuotava veri ei pääse valumaan nieluun ja sitä kautta ruuansulatuskanavaan aiheuttamaan pahoinvointia.
 
-c: Hajuaisitin testaaminen ei liity akuutin verenvuodon hallintaan
+c: Hajuaistin testaaminen ei liity akuutin verenvuodon hallintaan.
 
-d: Jäätä voi kyllä sinänsä käyttää, mutta ei ole adrenaliinia tärkeämpää. Kylmäpussi niskan alueella ja jääpala suussa voivat auttaa vuodon tyrehtymisessä ja ovat hyviä kotihoito-ohjeita.
+d: Jäätä voi kyllä sinänsä käyttää, mutta se ei ole adrenaliinia tärkeämpää. Kylmäpussi niskan alueella ja jääpala suussa voivat auttaa vuodon tyrehtymisessä ja ovat hyviä kotihoito-ohjeita.
   </div>
 </div>
 

@@ -311,7 +311,7 @@ d: Paikalliset glukokortikoidivalmisteet ovat ensisijainen oireita lievittävä 
 
 - a. Juveniili papillooma oikeassa sieraimessa
 - b. Hammasperäinen rinosinuiitti oikealla puolella
-- c. Kallonpohjan läpi pullistava meningoseele oikeassa sieraimessa ja siihen liittyvä ingektio
+- c. Kallonpohjan läpi pullistava meningoseele oikeassa sieraimessa ja siihen liittyvä infektio
 - d. Nenän vierasesine
 
 <div class="solution">
@@ -325,7 +325,7 @@ Nenän vierasesineet ovat hyvin yleisiä pienillä lapsilla. Tyypillisiä oireit
 
 Yleisesti otettuna nenän kasvaimet (niin hyvänlaatuiset kuin pahanlaatuisetkin) ovat harvinaisia sekä aikuisilla että lapsilla.
 
-a: Todella harvinaisia. Lapsilla hyvänlaatuiset nenätuumorit ovat yleesä juveniileja angiofibroomia (angiofibroma juvenilis) ja ne ovat pääsääntöisesti puberteetti-ikäisillä pojilla esiintyvä hyvänlaatuinen kasvain, jonka etiologiaa ei täysin ymmärretä. Se alkaa tavallisesti nenän takaosan sivuseinämän kudoksesta, lähellä arteria sfenopalatinaa. Ensimmäisiä oireita ovat nenän tukkoisuus, nenäverenvuoto sekä välikorvaoireet (korvien lukkoisuus, kipu) korvatorven tukkeutumisen seurauksena. Jos murrosikäisellä potilaalla ilmenee edellä mainittuja oireita, juveniili angiofibrooma on otettava huomioon. Vaikka kasvain on hyvänlaatuinen, se voi syövyttää ympäröiviä rakenteita ja edetä kallon sisälle, jolloin se voi painaa aivohermoja. Tyyppioireina ovat tuolloin näköoireet (näön heikkeneminen tai kaksoiskuvat) näköhermon puristuksen seurauksena.
+a: Todella harvinaisia. Lapsilla hyvänlaatuiset nenätuumorit ovat yleensä juveniileja angiofibroomia (angiofibroma juvenilis) ja ne ovat pääsääntöisesti puberteetti-ikäisillä pojilla esiintyviä hyvänlaatuisia kasvaimia, joiden etiologiaa ei täysin ymmärretä. Tuumori saa alkunsa tavallisesti nenän takaosan sivuseinämän kudoksesta, lähellä arteria sfenopalatinaa. Ensimmäisiä oireita ovat nenän tukkoisuus, nenäverenvuoto sekä välikorvaoireet (korvien lukkoisuus, kipu) korvatorven tukkeutumisen seurauksena. Jos murrosikäisellä potilaalla ilmenee edellä mainittuja oireita, juveniili angiofibrooma on otettava huomioon. Vaikka kasvain on hyvänlaatuinen, se voi syövyttää ympäröiviä rakenteita ja edetä kallon sisälle, jolloin se voi painaa aivohermoja. Tyyppioireina ovat tuolloin näköoireet (näön heikkeneminen tai kaksoiskuvat) näköhermon puristuksen seurauksena.
 
 b: Hammasperäinen sinuiitti on harvinainen (vaikka ei täysin mahdoton) 4-vuotiailla, koska hampaat eivät ole vielä puhjenneet kunnolla eikä isot sivuontelot ole vielä kunnolla kehittyneet. 
 
@@ -907,9 +907,9 @@ Jos potilaan oirekuva kuulostaa BPPV:ltä ja ei ole todettavissa jatkuvaa nystag
 3. Potilas ohjataan makuuasentoon niin, että lopulta pää on tutkimuspöydän yli ja sitä tuetaan 30 asteen ekstensiossa 
 4. Katso silmiä ja arvioi nystagmusta
 
-Kiertohuimaus alkaa testissä sekuntien viiveen jälkeen ja kestää tavallisesti kymmeniä sekunteja. Samalla nähdään **vertikaalinen ja sairaan korvan puolelle kiertävä nystagmus.** Todellisuudessa siis mikään vastauksista ei oikein ole totta, koska oikea vastaus olisi vertikaalis-rotatorinen nystagmus. Pelkkä vertikaalinen nystagmus on kuitenkin aina yleensä huolestuttavaa sentraalisen huimauksen suhteen -> varmaan tässä väärin. Joissain lähteissä postiivista Dix-Hallpikea myös kuvaillaan horisontaalis-rotatorisena enemmän kuin vertikaalis-rotatorisena, joten se on todennäköisesti tässä oikein.
+Kiertohuimaus alkaa testissä sekuntien viiveen jälkeen ja kestää tavallisesti kymmeniä sekunteja. Samalla nähdään **vertikaalinen ja sairaan korvan puolelle kiertävä nystagmus.** Todellisuudessa siis mikään vastauksista ei oikein ole totta, koska oikea vastaus olisi vertikaalis-rotatorinen nystagmus. Pelkkä vertikaalinen nystagmus on kuitenkin aina yleensä huolestuttavaa sentraalisen huimauksen suhteen -> tässä väärin. Joissain lähteissä positiivista Dix-Hallpikea myös kuvaillaan horisontaalis-rotatorisena enemmän kuin vertikaalis-rotatorisena, joten se on todennäköisesti tässä oikein.
 
-Posteriorisen kaarikäytävän BPPV) voidaan hoitaa ensisijaisesti Epleyn manööverillä, jonka avulla pyritään saattamaan takakaarikäytävän otoliittimassa takaisin vestibulumiin. 
+Posteriorisen kaarikäytävän BPPV voidaan hoitaa ensisijaisesti Epleyn manööverillä, jonka avulla pyritään saattamaan takakaarikäytävän otoliittimassa takaisin vestibulumiin. 
 
 ![](images/dxhp.gif)
 ![](images/dxhpnystagmus.gif)
@@ -1137,7 +1137,7 @@ Terveyskeskuspäivystykseen tulee Matti 28 v, jolla on kurkku ollut toispuoleise
 
 Peritonsillaarisen absessin onnistuneen incisio- ja dreneeraushoidon jälkeen hoitoa jatketaan varmistamalla riittävä kivunlievitys ja aloittamalla suun kautta sama antibiootti kuin tyypillisessä streptokokkifaryngiitissäkin eli V-penisilliini 10vrk ajan, sillä penisilliini on ensisijainen ja riittävä antibiootti valtaosalle potilaista, jotka ovat muuten hyväkuntoisia ja kykenevät ottamaan lääkkeen suun kautta. Anaerobien kattavuus (esim. metronidatsoli penisilliinin rinnalle) voidaan harkita, jos on erityinen huoli polymikrobisesta infektiosta, mutta penisilliini yksinään on yleensä riittävä komplisoitumattomissa tapauksissa, jossa avaus on onnistunut. 
 
-b: Jos paise ei avautuisi, peritonsilliitin hoidossa katetaan anaerobiset taudinaiheuttajat laajempikirjoisella mikrobilääkkeellä (penisilliinin lisäksi määrätään aikuisille metronidatsolia 400 mg × 3/vrk)
+b: Terveysportin mukaan jos paise ei avautuisi, peritonsilliitin hoidossa katetaan anaerobiset taudinaiheuttajat laajempikirjoisella mikrobilääkkeellä (penisilliinin lisäksi määrätään aikuisille metronidatsolia 400 mg × 3/vrk). Käytännössä kuitenkin jos paise ei avaudu kunnolla, niin harkitaan vahvasti ns. kuuman vaiheen tonsillektomiaa ja usein tällöin aloitetaan edeltävänä päivänä antibiootiksi pelkkä i.v. G-penisilliinihoito. Metronidatsolia pääasiassa harkitaan hammasperäisissä syvissä kaulainfektioissa anaerobien kattajana. 
 
 c ja d: Sairaalahoito tai suonensisäinen antibioottihoito on varattu potilaille, joilla on vaikea yleisvointi, immunosuppressio, kyvyttömyys ottaa lääkettä suun kautta, tai epäily syvän kaulan tilan infektiosta, mutta tässä tapauksessa potilaan oireet helpottivat välittömästi ja systeemistä toksisuutta ei ole.
   </div>
