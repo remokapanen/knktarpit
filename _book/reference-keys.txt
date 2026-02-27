@@ -180,6 +180,11 @@ potilas-tulee-vastaanotolle-tulosyyllä-nielemisvaikeuspalantunne.-missä-tilant
 uniapnean-ennuste-mikä-seuraavista-pitää-paikkaansa
 mikä-seuraavista-väitteistä-ei-pidä-paikkaansa
 millä-seuraavista-limakalvomuutoksista-on-suurin-riski-muuttua-maligniksi
+section-2
+pään-ja-kaulan-tuumorien-kanssa-ei-voi-olla-liian-hidas.-missä-vaiheessa-teet-lähetteen-esh
+hoitoon-tulee-nainen-jolla-3vk-ajan-ollut-ruokailun-yhteydessä-kipua-ja-turvotusta-kielen-alla.-ei-kuumetta.-vastaanotolla-nyt-hieman-turvonnut-punoittava-ja-hieman-arka-leuanalussylkirauhanen-jossa-palpoituu-pieni-kiveksi-sopiva-massa.-mitä-teet
+vierasesineistä
+mitä-teet-seuraavaksi-jos-potilas-menee-hengittämättömäksi-äkillisesti-ruokailun-yhteydessä-ja-epäilynä-on-ruokakappale-hengitysteissä
 valtakunnallinen-kysymyspankki-kuopiooulu---monivalinnat
 vanhemmat-tuovat-2-vuotiaan-tytön-terveyskeskukseen-kuorsauksen-vuoksi.-vastaanotolla-tyttö-istuu-suu-jatkuvasti-avoinna.-mistä-tämä-todennäköisimmin-johtuu
 isä-tuo-päivystykseen-2-vuotiaan-pojan-joka-valittelee-kurkkukipua-ja-syöminen-on-mennyt-huonoksi-sen-vuoksi.-korkeaa-kuumetta-yskää-ja-nuhaa-on-ollut-myös-jo-kolmisen-päivää.-nielussa-on-peitteitä-nielurisoissa.-mikä-taudinaiheuttaja-on-todennäköisimmin-kyseessä
@@ -340,12 +345,12 @@ krooninen-nuha-voi-johtua-useasta-eri-syystä.-mitkä-väittämät-pitävät-pai
 arvioi-mitkä-väittämät-sinuiittia-koskien-ovat-oikein-ja-mitkä-väärin.
 väittämiä-sinuiiteista
 väittämiä-sinuiiteista-ja-komplikaatioista
-vierasesineistä
+vierasesineistä-1
 nuhaväittämiä
 nuhaa
 ihosyövistä
 helsinki
-section-2
+section-3
 missä-tilanteessa-seuraavista-ei-tulisi-epäillä-äkillistä-kartiolisäkkeen-tulehdusta
 pullealla-opettajalle-uniapnea
 vuotias-lapsi.-äiti-saattajana-kertoo-että-lapsella-on-ollut-flunssamaisen-nasaali-puheääni-hyvin-pitkään-mahdollisesti-siitä-lähtien-kun-oppi-puhumaan.-statuksessa-rauhallinen-nielu-tonsillat-gr2-haarautunut-uvula-uvula-bifida-ja-kovassa-suulaessa-palpoiden-on-pieni-lovi-limakalvon-alla.
@@ -368,7 +373,7 @@ mikä-seuraavista-nielurisatoimenpiteisiin-liittyvä-väittämä-pitää-paikkaa
 potilaallesi-sovitetaan-kuulokoje-onnistuneesti-huonompaan-korvaan-ja-saavutetaan-symmetrinen-kuulo-molempiin-korviin.-mikä-on-paras-etu-jonka-hän-voi-tästä-saavuttaa
 kysta-kaulalla
 näet-kuvanmukaisen-peilitutkimuslöydöksen-pitkään-tupakoineen-naisen-kurkunpäässä.-kyseessä-on-tuumorisuspekti-muutos
-section-3
+section-4
 vuotias-maanviljelijä-tulee-näyttämään-korvalehteään-jonka-iholta-on-viime-kuukausina-vuotanut-verta.-toteat-helixin-alueella-ruven-jonka-alla-on-kraaterimainen-punoittava-alue.-mitkä-ovat-tarvittavat-tutkimukset-ja-mikä-on-jatkolähetteen-kiireellisyys
 kroonisesta-nenän-tukkoisuudesta-kärsivälle-42-vuotiaalle-potilaalle-tehdään-erikoissairaanhoidossa-akustinen-rinometria-sekä-rinomanometria-tutkimukset.-mikä-seuraavista-väitteistä-pitää-paikkansa
 kuvassa-näkyvät-äänihuulten-kohoumat-ovat
@@ -388,7 +393,7 @@ mitä-oireita-voi-liittyä-bellin-pareesiin-1
 ruuan-takaisinvirtausta
 alentunut-kuulo-pienellä-pojalla
 dix-hallpiken-kokeella-voidaan-diagnosoida
-section-4
+section-5
 hyvänlaatuiseen-asentohuimaukseen-sopivat
 äänihuulten-atrofia-mikä-seuraavista-väittämistä-on-oikein-1
 tuttu-nainen-nyt-hieman-erilainen-näkymä-korvassa
@@ -403,7 +408,7 @@ potilas-pyörtyy-sinus-uän-aikana
 uniapnean-ennuste-mikä-seuraavista-pitää-paikkansa
 potilaalla-on-synnynnäinen-molemminpuolinen-korvakäytävän-puutos.-kuvantamistutkimusten-mukaan-välikorvat-ovat-ilmapitoiset-sisäkorvien-ja-kuulohermojen-rakenteet-ovat-normaalit.-millaisella-apuvälineellä-saadaan-paras-kuulonkuntoutuksen-tulos
 äänihuulihalvaus-todetaan
-section-5
+section-6
 potilas-tulee-vastaanotolle-tulosyyllä-nielemisvaikeuspalantunne.-mikä-alla-olevista-viittaa-neurologiseen-taustaan-nielemisongelman-takana
 nenäoireilua-kuukausia
 potilaalla-on-suun-limakalvolla-kuvan-kaltainen-limakalvomuutos.-mikä-on-todennäköisin-diagnoosi
@@ -420,7 +425,7 @@ tukkoinen-nenä-ei-vuotoa
 mitä-lääkettä-voidaan-käyttää-menieren-taudin-hoidossa
 äänihuulisyöpä-1
 millaisista-hermosäkeistä-kasvohermo-koostuu
-section-6
+section-7
 vuotiaalla-miehellä-on-ollut-puolen-vuoden-ajan-lisääntyvää-oikeanpuoleista-nenän-tukkoisuutta.-vasen-puoli-on-täysin-oireeton.-anteriorisessa-rinoskopiassa-toteat-oikealla-nenäonteloa-tukkivan-kudosmassan.-epäilet-kasvainta.-mikä-seuraavista-on-yleisin-nenäontelon-tuumori
 vuotiaalla-naisella-on-ollut-vuosia-kroonista-nenän-tukkoisuutta-ja-hajuaistin-alenemaa.-nenässä-on-jo-aiemmin-todettu-polyyppejä.-potilas-huuhtelee-nenäänsä-suolavedellä-päivittäin.-viime-viikkoina-nenän-tukkoisuus-on-kuitenkin-selvästi-lisääntynyt.-mikä-on-hoitolinjasi
 avoimemmat-kysymykset

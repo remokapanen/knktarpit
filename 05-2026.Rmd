@@ -1,0 +1,80 @@
+# 2026 
+
+Tentit suurimmalta osin vanhoja kysymyksiä tai kysymyksiä valtakunnallisesta tärppipankista/Helsingin tenteistä **(kannattaa siis käydä valtakunnalliset ja Helsingin kysymykset läpi).** Tässä joitakin harvoista uusista alla.  
+
+## Pään ja kaulan tuumorien kanssa ei voi olla liian hidas. Missä vaiheessa teet lähetteen ESH? 
+
+- a. PAD-vastauksen tultua
+- b. Kaulan UÄ ja ohutneulanäytteen oton jälkeen 
+- c. jotain 
+- d. jotain 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Mieti nyt esim. ihomuutosta kasvoilla. Siitä otetaan näyte (joko stanssi tai veneviilto) ja pyydetän PAD kiireellisenä. Sen tulosten perusteella sitten tehdään tarpeen mukaan lähete erikoissairaanhoitoon. 
+  </div>
+</div>
+
+## Hoitoon tulee nainen, jolla 3vk ajan ollut ruokailun yhteydessä kipua ja turvotusta kielen alla. Ei kuumetta. Vastaanotolla nyt hieman turvonnut, punoittava ja hieman arka leuanalussylkirauhanen, jossa palpoituu pieni kiveksi sopiva massa. Mitä teet? 
+
+- a. Ohjeistan potilasta huolehtimaan nesteytyksestään, harrastamaan rauhasen lypsämistä ja tarvittaessa ottamaan tulehduskipulääkkeitä 
+- b. Lähetän potilaan suoraan päivystykseen kiven poistoa varten 
+- c. Aloitan amoksisilliinin 10vrk 
+- d. En tee mitään, kontrolli 6kk päästä   
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Potilaalla on rauhallinen tilanne, jolloin sylkikiveä voidaan hoitaa lypsämällä ja nesteytyksellä alkuun. 
+
+![](images/sylkikivi.png)
+  </div>
+</div>
+
+## Vierasesineistä 
+
+- a. Ruokatorven vierasesine poistetaan aina jäykällä skoopilla 
+- b. Ruokatorven perforaatio voi tuntua rintakipuna ja/tai kipuna kaulalla tai selässä
+- c. jotain
+- d. jotain 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+a: Syvällä olevat haetaan taipuvilla skoopeilla. 
+  </div>
+</div>
+
+## Mitä teet seuraavaksi, jos potilas menee hengittämättömäksi äkillisesti ruokailun yhteydessä ja epäilynä on ruokakappale hengitysteissä? 
+
+- a. Annat suusta suuhun hengitystä 
+- b. Aloitat paineluelvytyksen
+- c. Lyöt napakasti lapaluiden väliin 5 kertaa
+- d. jotain
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Ei mainintaa siitä, että potilas olisi tajuton -> vielä voidaan tajuissaan olevalle potilaalle yrittää läimäisyjä lapojen väliin ja tarvittaessa Heimlichin manööveriakin näiden jälkeen. 
+
+![](images/ilmaeste.png)
+  </div>
+</div>
+
