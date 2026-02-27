@@ -2,6 +2,26 @@
 
 Tentit suurimmalta osin vanhoja kysymyksiä tai kysymyksiä valtakunnallisesta tärppipankista/Helsingin tenteistä **(kannattaa siis käydä valtakunnalliset ja Helsingin kysymykset läpi).** Tässä joitakin harvoista uusista alla.  
 
+## Mitä sisäkorvaistute stimuloi avustaessaan kuuloa? 
+
+- a. Sisäisiä karvasoluja
+- b. Ulkoisia karvasoluja
+- c. Kokleahermon tumaketta
+- d. Spiraaliganglion soluja 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      d
+
+Sisäkorvaistutteen ideana on korvata vaurioitunut sisäkorvan Cortin elin ja stimuloida sähköisesti suoraan kuulohermon spiraaliganglion soluja. 
+
+Istutteessa on ulkoinen prosessori sekä kirurgisesti ihon alle ja sisäkorvaan vietävään runko-osa. Sisäinen osa eli istute edellyttää leikkausta. Istuteprosessori poimii äänet ympäristöstä, muuttaa ne digitaaliseksi signaaliksi, prosessoi äänen ja välittää signaalin radiotaajuusaaltoina ihon alla sijaitsevalle sisäisellä osalle kelan kautta. Sisäisessä osassa radioaallot muutetaan takaisin sähköiseen muotoon ja välitetään istute-elektrodin avulla sisäkorvaan stimuloimaan suoraan spiraaliganglion soluja. 
+  </div>
+</div>
+
 ## Pään ja kaulan tuumorien kanssa ei voi olla liian hidas. Missä vaiheessa teet lähetteen ESH? 
 
 - a. PAD-vastauksen tultua
@@ -77,4 +97,3 @@ Ei mainintaa siitä, että potilas olisi tajuton -> vielä voidaan tajuissaan ol
 ![](images/ilmaeste.png)
   </div>
 </div>
-
