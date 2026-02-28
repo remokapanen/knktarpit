@@ -124,3 +124,27 @@ d: Usein vaikuttaa myös ääntämiseen ja kielen ymmärtämiseen.
 ![](images/kielihäiriö.png)
   </div>
 </div>
+
+## Toteat 5-vuotiaalla lapsella perifeerisen kasvohermohalvauksen. Mitä teet seuraavaksi? 
+
+- a. Päivystyksellisesti ESH
+- b. Mittaat borreliavasta-aineet ja aloitat keftriaksonin 
+- c. Prednisolon 60mg× 1/vrk 5 vrk:n ajan, minkä jälkeen annosta pienennetään 10 mg/vrk; hoidon kesto yhteensä 10 vrk
+- d. Valasikloviiri 1 g × 3/vrk 7 vrk:n ajan
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+Kasvohermohalvauspotilasta voi aluksi tutkia ja hoitaa PTH, jos tilanne sopii Bellin pareesiin ja kyseessä on aikuinen. Lapsipotilaat lähetetään aina päivystykselliseen konsultaatioon KNK- ja/tai lastenlääkärille. 
+
+b: Borrelialabrat kyllä otetaan käytännössä kaikilta nykyään; lapsilta vielä laajemmin. Kaikilta otetaan borreliavasta-aineet (S-Borr-Ab), lapsilta (<16 v.) tutkitaan lisäksi aina likvorin borrelia-PCR ja vasta-aineet (Li-BorrAb), Li-CXCL13. 
+
+c: On Bellin pareesin ensisijainen hoito. Lasten kasvohermohalvauksissa Bellin pareesin osuus on vähäisempi kuin aikuisilla, jonka takia lasten kanssa tulee olla tarkempi. Lapsilla otetaan tämän takia käytännössä aina MRI, jota ei rutiininomaisesti tarvita aikuisten Bellin pareesin diagnosoimiseen. 
+
+d: Käytetään Ramsay Huntin syndroomassa (herpes zoster oticus)
+  </div>
+</div>
