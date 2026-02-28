@@ -97,3 +97,30 @@ Ei mainintaa siitä, että potilas olisi tajuton -> vielä voidaan tajuissaan ol
 ![](images/ilmaeste.png)
   </div>
 </div>
+
+## 4-vuotias lapsi vastaa vain lyhyin lausein. Ääntäminen normaalia. Kehitys muuten normaalia. Mikä on todennäköisin syy 
+
+- a. Kielen kehityksellinen häiriö
+- b. Kireä kielijänne 
+- c. Heikko varhainen vuorovaikutus kotona 
+- d. Kuulovika
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      a
+
+4-vuotiaan tulisi käyttää jo selvästi monisanaisia lauseita. Lapsi vastaa vain lyhyin lausein → viittaa ekspressiivisen kielen viiveeseen. Ääntäminen on normaalia → ei viittaa rakenteelliseen ongelmaan. Muu kehitys on normaalia → ei viittaa laaja-alaiseen kehityshäiriöön
+
+b: Vaikuttaa lähinnä artikulaatioon (ääntämiseen), ei lausepituuteen tai kielen rakenteeseen
+
+c: Voi vaikuttaa kielen kehitykseen, mutta yksinään ei yleensä aiheuta selkeää rakenteellista kielihäiriötä, jos muu kehitys on normaalia
+
+d: Usein vaikuttaa myös ääntämiseen ja kielen ymmärtämiseen. 
+
+![](images/kielenkehitys.png)
+![](images/kielihäiriö.png)
+  </div>
+</div>
