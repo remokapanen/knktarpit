@@ -20,13 +20,15 @@ Vuodesta 2022 eteenpäin tentit ovat monivalintatenttejä, sitä ennen enemmän 
     Vastaus
   </button>
   <div class="solution-content">
-      d
+      b
 
-Kun tärykalvo puhkeaa, paine välikorvassa purkautuu, ja riski tulehduksen leviämiselle kartiolisäkkeeseen pienenee -> mastoidiitin hoitoon yleensä kuulukin laaja parasenteesi tai tympanostomia. Pelkkä märkävuoto ei viittaa mastoidiittiin, ellei siihen liity korvan takaista punoitusta, turvotusta, aristusta tai korvalehden työntymistä ulospäin. 
+Mallivastauksissa on epäilty (ei siis varmuutta) oikeaksi vastaukseksi d, mutta b sinänsä sopii paremmin. Kartiolisäkkeen tulehdus eli mastoidiitti on tyypillisesti äkillisen välikorvatulehduksen suora komplikaatio ja tällöin tärykalvo ei näyttäisi terveeltä. Tilanne enemmänkin sopii otitis externaan ja korvalehden tulehdukseen. Korvan takainen turvotus kuitenkin sinänsä voisi aina herättää epäilyn mastoidiitista. 
+
+d:n logiikka oikeana vastauksena voisi olla se, että kun tärykalvo puhkeaa, paine välikorvassa purkautuu, ja riski tulehduksen leviämiselle kartiolisäkkeeseen pienenee -> mastoidiitin hoitoon yleensä kuulukin laaja parasenteesi tai tympanostomia. Pelkkä märkävuoto ei viittaa mastoidiittiin, ellei siihen liity korvan takaista punoitusta, turvotusta, aristusta tai korvalehden työntymistä ulospäin. Kuitenkin mastoidiittipotilailla tärykalvo on usein suuren paineen vuoksi puhjennut spontaanisti (tai se on jouduttu puhkaisemaan), ja korvasta vuotaa jatkuvasti ja runsaasti märkää -> sopii sinänsä mastoiidin kuvaan ja kannattaisi epäillä mastoidiittia.
+
+_Tämä kysymys on samanlaisena myös Turun vuoden 2026 blokin 4 tentissä, mutta siinä on poistettu b-vaihtoehto ja vaihdettu se selvemmin oikeaksi vaihtoehdoksi._
 
 a: Klassinen oirekuva, vahvin epäily mastoidiitista 
-
-b: Korvan takainen turvotus herättää aina epäilyn mastoidiitista 
 
 c: Kaulan imusolmukkeiden reaktiivinen suurentuminen viittaa infektion leviämiseen ja voi liittyä mastoidiittiin. Märkä voi mastoidiitissa puhjeta myös kartiolisäkkeen kärjen kautta kaulalle (Bezoldin abskessi), mikä voidaan väärin tulkita imusolmukesuurentumaksi. 
 
